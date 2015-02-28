@@ -1,0 +1,23 @@
+{
+  "name": "congress-wealth-indicator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "retrieve.js",
+  "dependencies": {
+    "request": "^2.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremiak/congressional-wealth-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiak/congressional-wealth-analysis/issues"
+  },
+  "homepage": "https://github.com/jeremiak/congressional-wealth-analysis"
+}
