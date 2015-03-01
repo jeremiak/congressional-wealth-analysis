@@ -61,14 +61,20 @@ colnames(incomeRaw)[8] <- "State"
 ############################################################################################################
 
 ####### Drop the executive and court instances #############################################################
-congressIncomes <- subset(incomeRaw, incomeRaw$chamber != "E" & incomeRaw$chamber != "C")
+congressIncomes <- subset(incomeRaw, incomeRaw$chamber != "E" & incomeRaw$chamber != "J" & incomeRaw$chamber != "")
 head(congressIncomes)
 ############################################################################################################
 
+############ Melt and recast the data frame by year #############################
+
+# need to figure out the order, but this is the general form for recasting
+md <- melt(congressIncomes, id = c("cid", "year"))
+newCast <- dcast(md, id + AvgValue ~ year)
+
+#################################################################################
 
 
-
-# let's make some mutha fuckin plots.....but later.
+# plots for later.
 library(ggplot2)
 library(lattice)
 year2004 <- subset(congressIncomes, year == "2004")
