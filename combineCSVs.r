@@ -5,77 +5,68 @@ library(reshape2)
 
 ###########################################
 
-
 ############# Read in the Data ############
 years <- list.files(pattern = ".csv")
-congressIncomes <- data.frame()
+incomeRaw <- data.frame()
 
 # lapply
-congressIncomes <- do.call(rbind, lapply(years, read.csv))
-
-# the difference in system.time() for the two methods is a measly .048 seconds, however lapply seems to be dealing with the numerics better for some reason
+#incomeRaw <- do.call(rbind, lapply(years, read.csv))
+## Best way is to use read.table, but I'll have to build a function
+loadFile <- function(x) {
+        df <- read.table(file = x, header = TRUE, na.strings = "NA", sep = ",", stringsAsFactors = FALSE)
+}
+incomeRaw <- do.call(rbind, lapply(years, loadFile))
 ###########################################
 
 ############ Have a look ##################
-#head(congressIncomes)
-#str(congressIncomes)
-congressIncomes[, 3:5] <- sapply(congressIncomes[, 3:5], as.numeric)
-colnames(congressIncomes)
-#head(congressIncomes)
-summary(congressIncomes$AvgValue)
+head(incomeRaw)
+str(incomeRaw)
+incomeRaw[, 3:5] <- sapply(incomeRaw[, 3:5], as.numeric)
+colnames(incomeRaw)
+summary(incomeRaw$AvgValue)
+incomeRaw$Source <- NULL
+incomeRaw$Origin <- NULL
 ###########################################
 
-
-# So some things to consider: I think the "Name" variable needs to be split. Name should be a seperate case, Party affiliation should be a seperate case,
-# and so should their home state. This would allow for another few layers of analysis (visualizing by state and party). Not sure what the "Source" column is.
-# Looks like all NAs, so I'd drop it all together.  My thought on plotting this would be to start global and then go local. Visualize the global distribution of wealth by party,
-# then by state, then by district (is that what the cid variable is? I couldn't tell...a quick google search didn't turn up any documentation for this one).
-
-
-############## Add in the 'Party' variable #####################################
-congressIncomes$Name <- as.character(congressIncomes$Name)
-for (i in 1:nrow(congressIncomes)) {
-  if (grepl(pattern = "D\\-", congressIncomes$Name[i]) == TRUE) {
-    congressIncomes$Party[i] = "D"
-  } else if (grepl(pattern = "R\\-", congressIncomes$Name[i]) == TRUE) {
-    congressIncomes$Party[i] = "R"
-  } else {
-    congressIncomes$Party[i] = "I"
-  }
+############ Add in the 'Party' variable ###################################
+for (i in 1:nrow(incomeRaw)) {
+        if((incomeRaw$chamber[i] == "E") | (incomeRaw$chamber[i] == "J")) {
+                incomeRaw$Party[i] = NA
+        } else if (grepl(pattern = "R\\-", incomeRaw$Name[i]) == TRUE) {
+                incomeRaw$Party[i] = "R"
+        } else if (grepl(pattern = "D\\-", incomeRaw$Name[i]) == TRUE) {
+                incomeRaw$Party[i] = "D"
+        } else if (grepl(pattern = "I\\-", incomeRaw$Name[i]) == TRUE) {
+                incomeRaw$Party[i] = "I"
+        } else {
+                incomeRaw$Party[i] = NA
+        }
 }
+##############################################################################
 
-# remove rows that represent the exeutive and judiciary
-for (i in 1:nrow(congressIncomes)) {
-  if (!is.na(congressIncomes$chamber[i])) {
-    if ((congressIncomes$chamber[i] == "E") | (congressIncomes$chamber[i] == "J")) {
-      congressIncomes[-(i),]
-    }
-  }
-}
-################################################################################
-
-
-
-
-######################## Split off names in 'Name' and add seperate variable for 'State' #############################################################
-congressIncomes <- data.frame(congressIncomes, colsplit(congressIncomes$Name, pattern = " \\(", names = c("Names", "State")))
-head(congressIncomes)
+############ Split off names in 'Name' and add seperate variable for 'State' ###############################
+incomeRaw <- data.frame(incomeRaw, colsplit(incomeRaw$Name, pattern = " \\(", names = c("Names", "State")))
+head(incomeRaw)
 
 # Next step will be to drop the Party ID and cleanup state remnants 
-congressIncomes$State <- sub(pattern = "[D, R, I]\\-", replacement = "", x = congressIncomes$State)
-congressIncomes$State <- sub(pattern = ")", replacement = "", x = congressIncomes$State)
+incomeRaw$State <- sub(pattern = "[D, R, I]\\-", replacement = "", x = incomeRaw$State)
+incomeRaw$State <- sub(pattern = ")", replacement = "", x = incomeRaw$State)
 
 # Drop columns Source and Name as we no longer need that data
-congressIncomes$Name <- NULL
-congressIncomes$Source <- NULL
+incomeRaw$Name <- NULL
+
 
 # Rename Names column back to nicer sounding Name
-colnames(congressIncomes)[9] <- "Name"
+colnames(incomeRaw)[8] <- "State"
+############################################################################################################
 
-states <- unique(congressIncomes$State)
+####### Drop the executive and court instances #############################################################
+congressIncomes <- subset(incomeRaw, incomeRaw$chamber != "E" & incomeRaw$chamber != "C")
+head(congressIncomes)
+############################################################################################################
 
 
-######################################################################################################################################################
+
 
 # let's make some mutha fuckin plots.....but later.
 library(ggplot2)
