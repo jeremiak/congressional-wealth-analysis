@@ -57,7 +57,7 @@ incomeRaw$Name <- NULL
 
 
 # Rename Names column back to nicer sounding Name
-colnames(incomeRaw)[8] <- "State"
+colnames(incomeRaw)[8] <- "Name"
 ############################################################################################################
 
 ####### Drop the executive and court instances #############################################################
@@ -68,8 +68,12 @@ head(congressIncomes)
 ############ Melt and recast the data frame by year #############################
 
 # need to figure out the order, but this is the general form for recasting
+congressIncomes$MinValue <- NULL
+congressIncomes$MaxValue <- NULL
 md <- melt(congressIncomes, id = c("cid", "year"))
-newCast <- dcast(md, id + AvgValue ~ year)
+head(md)
+## recast by cid and year...makes the cid repeat for the variable column but it displays the data by year, which is what we want
+newCast <- dcast(md, cid + variable ~ year)
 
 #################################################################################
 
