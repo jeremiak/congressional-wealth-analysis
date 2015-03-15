@@ -2,7 +2,9 @@
 library(plyr)
 library(data.table)
 library(reshape2)
-
+library(ggplot2)
+library(lattice)
+library(scales)
 ###########################################
 
 ############# Read in the Data ############
@@ -74,19 +76,20 @@ md <- melt(congressIncomes, id = c("cid", "year"))
 head(md)
 ## recast by cid and year...makes the cid repeat for the variable column but it displays the data by year, which is what we want
 newCast <- dcast(md, cid + variable ~ year)
+head(newCast)
+
 
 #################################################################################
 
 
-# plots for later.
-library(ggplot2)
-library(lattice)
-year2004 <- subset(congressIncomes, year == "2004")
-year2005 <- subset(congressIncomes, year == "2005")
-year2006 <- subset(congressIncomes, year == "2006")
+############### Summary Plots ###################################################
+incomesByYear <- aggregate(AvgValue ~ year, data = congressIncomes, FUN = mean)
+ggplot(incomesByYear, aes(y = AvgValue, x = year)) + geom_bar(stat = "identity") + labs(title = "Average Congressional Net Worth by Year", 
+        y = "Average Net Worth", x = "Year") + scale_y_continuous(name = "Average Net Worth", labels = comma)
 
-xyplot(AvgValue ~ Name, data = year2004)
-# ggplot will probably be better for this...this one looks like crap but it definately shows there are some outliers and the scale is a mess becuase ggplot2 is mean about that,
-# as asthetically pleasing as ggplot can be
-plot1 <- ggplot(year2004, aes(y = AvgValue, x = Name), xlab = "Member of Congress", ylab = "Average Value") + geom_point() 
-plot1
+
+
+################################################################################
+
+
+
