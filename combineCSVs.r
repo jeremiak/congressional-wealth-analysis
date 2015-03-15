@@ -84,12 +84,19 @@ head(newCast)
 
 ############### Summary Plots ###################################################
 incomesByYear <- aggregate(AvgValue ~ year, data = congressIncomes, FUN = mean)
-ggplot(incomesByYear, aes(y = AvgValue, x = year)) + geom_bar(stat = "identity") + labs(title = "Average Congressional Net Worth by Year", 
-        y = "Average Net Worth", x = "Year") + scale_y_continuous(name = "Average Net Worth", labels = comma)
+ggplot(incomesByYear, aes(y = AvgValue, x = as.factor(year))) + geom_bar(stat = "identity") + 
+        labs(title = "Average Congressional Net Worth by Year", x = "Year") + 
+        scale_y_continuous(name = "Average Net Worth", labels = comma)
+# Let's try to bin them by year and then party
+partyByYear <- aggregate(AvgValue ~ year + Party, data = congressIncomes, FUN = mean)
+ggplot(partyByYear, aes(y = AvgValue, x = as.factor(year), fill = factor(Party)), color = factor(Party)) +
+        labs(title = "Average Individual Congressional Net Worth by Party by Year", x = "Year", fill = "Party") +
+        scale_y_continuous(name = "Average Individual Net Worth", labels = comma) + geom_bar(position = "dodge", stat = "identity") + 
+        scale_fill_manual(values = c("blue", "#009900", "red"))
 
 
 
-################################################################################
+#################################################################################
 
 
 
