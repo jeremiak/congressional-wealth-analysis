@@ -108,10 +108,12 @@ ggplot(data = congressIncomes, aes(x = year, y = AvgValue, group = cid, color = 
 #################################################################################
 
 ######################## Select on certain individuals and map across time ######
-johnKerry <- congressIncomes[which(congressIncomes$Name == "John Kerry"), ]
+interestingCongressPeopleNames <- c("John Kerry", "Michael McCaul", "Barney Frank", "Hillary Clinton", "Ted Cruz",
+                                    "Mitch McConnell")
+interestingCongressPeople <- congressIncomes[which(congressIncomes$Name %in% interestingCongressPeopleNames), ]
 
-ggplot(data = johnKerry, aes(x = year, y = AvgValue)) +
-        labs(title = "John Kerry Net Worth Over Time", x = "Year") + 
+ggplot(data = interestingCongressPeople, aes(x = year, y = AvgValue, group = cid, color = Name)) +
+        labs(title = "Interesting Congress People Net Worth Over Time", x = "Year") + 
         scale_y_continuous(name = "Net Worth (US Dollars)", labels = comma) + 
         geom_line()
 
