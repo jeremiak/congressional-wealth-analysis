@@ -84,6 +84,8 @@ head(newCast)
 
 
 ############### Summary Plots ###################################################
+partyColors <- c("blue", "#009900", "red")
+
 incomesByYear <- aggregate(AvgValue ~ year, data = congressIncomes, FUN = mean)
 ggplot(incomesByYear, aes(y = AvgValue, x = as.factor(year))) + geom_bar(stat = "identity") + 
         labs(title = "Average Congressional Net Worth by Year", x = "Year") + 
@@ -93,22 +95,25 @@ partyByYear <- aggregate(AvgValue ~ year + Party, data = congressIncomes, FUN = 
 ggplot(partyByYear, aes(y = AvgValue, x = as.factor(year), fill = factor(Party)), color = factor(Party)) +
         labs(title = "Average Individual Congressional Net Worth by Party by Year", x = "Year", fill = "Party") +
         scale_y_continuous(name = "Average Individual Net Worth", labels = comma) + geom_bar(position = "dodge", stat = "identity") + 
-        scale_fill_manual(values = c("blue", "#009900", "red"))
+        scale_fill_manual(values = partyColors)
 
 # Add line geom in to see the outliers
-ggplot(data = congressIncomes, aes(x = year, y = AvgValue, group = cid)) +
+ggplot(data = congressIncomes, aes(x = year, y = AvgValue, group = cid, color = Party)) +
         scale_y_continuous(name = "Average Individual Net Worth", labels = comma) +
-        labs(title = "Average Individual Cognressional Net Worth Across Time") +
-        geom_line()
+        labs(title = "Average Individual Congressional Net Worth Across Time", x = "Year") +
+        geom_line() +
+        scale_color_manual(values = partyColors)
+
 
 #################################################################################
 
 ######################## Select on certain individuals and map across time ######
 johnKerry <- congressIncomes[which(congressIncomes$Name == "John Kerry"), ]
 
-qplot(x = as.factor(year), y = AvgValue, data = johnKerry) +
-        labs(title = "John Kerry's Net Worth", x = "Year") +
-        scale_y_continuous(name = "Average Net Worth", labels = comma)
+ggplot(data = johnKerry, aes(x = year, y = AvgValue)) +
+        labs(title = "John Kerry Net Worth Over Time", x = "Year") + 
+        scale_y_continuous(name = "Net Worth (US Dollars)", labels = comma) + 
+        geom_line()
 
 #################################################################################
 
