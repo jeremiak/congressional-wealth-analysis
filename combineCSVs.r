@@ -74,7 +74,8 @@ congressIncomes$MinValue <- NULL
 congressIncomes$MaxValue <- NULL
 md <- melt(congressIncomes, id = c("cid", "year"))
 head(md)
-## recast by cid and year...makes the cid repeat for the variable column but it displays the data by year, which is what we want
+## recast by cid and year...makes the cid repeat for the variable column but it
+## displays the data by year, which is what we want
 newCast <- dcast(md, cid + variable ~ year)
 head(newCast)
 
@@ -94,9 +95,28 @@ ggplot(partyByYear, aes(y = AvgValue, x = as.factor(year), fill = factor(Party))
         scale_y_continuous(name = "Average Individual Net Worth", labels = comma) + geom_bar(position = "dodge", stat = "identity") + 
         scale_fill_manual(values = c("blue", "#009900", "red"))
 
-
+# Add line geom in to see the outliers
+ggplot(data = congressIncomes, aes(x = year, y = AvgValue, group = cid)) +
+        scale_y_continuous(name = "Average Individual Net Worth", labels = comma) +
+        labs(title = "Average Individual Cognressional Net Worth Across Time") +
+        geom_line()
 
 #################################################################################
+
+######################## Select on certain individuals and map across time ######
+johnKerry <- congressIncomes[which(congressIncomes$Name == "John Kerry"), ]
+
+qplot(x = as.factor(year), y = AvgValue, data = johnKerry) +
+        labs(title = "John Kerry's Net Worth", x = "Year") +
+        scale_y_continuous(name = "Average Net Worth", labels = comma)
+
+#################################################################################
+
+
+
+
+
+
 
 
 
