@@ -13,7 +13,6 @@ incomeRaw <- data.frame()
 
 # lapply
 #incomeRaw <- do.call(rbind, lapply(years, read.csv))
-## Best way is to use read.table, but I'll have to build a function
 loadFile <- function(x) {
         df <- read.table(file = x, header = TRUE, na.strings = "NA", sep = ",", stringsAsFactors = FALSE)
 }

@@ -1,0 +1,814 @@
+|A100109513|,|S|,|N00003682|,|10|,|Y|,|Squire, Sanders & Dempsey LLP|,|Squire, Sanders & Dempsey|,||,|K1000|,|PAC|,|C|,|Legal Services|,
+|A100109514|,|S|,|N00003682|,|10|,|Y|,|Metals Service Center Institute (through Leading Authorities, Inc.)|,|Metals Service Center Institute|,||,|Y0000|,||,|P|,|Speaking Engagement|,
+|A100109515|,|S|,|N00003682|,|10|,|Y|,|Lines 3-11 below are clients of Squire, Sanders & Dempsey LLP|,||,||,||,||,||,|Legal Services|,
+|A100109516|,|S|,|N00003682|,|10|,|Y|,|Baker Concrete Construction|,|Baker Concrete Construction|,||,|Y0000|,||,|C|,|Legal Services|,
+|A100109517|,|S|,|N00003682|,|10|,|Y|,|Fidelity Investments|,|Fidelity Investments|,|FMR Corp|,|F2100|,|PAC|,|B|,|Legal Services|,
+|A100109518|,|S|,|N00003682|,|10|,|Y|,|Owens Corning|,|Owens Corning|,||,|B5400|,|PAC|,|T|,|Legal Services|,
+|A100109519|,|S|,|N00003682|,|10|,|Y|,|Civic Enterprises, LLC|,|Civic Enterprises LLC|,||,|Y0000|,||,|W|,|Legal Services|,
+|A100109520|,|S|,|N00003682|,|10|,|Y|,|Nationwide Insurance Co.|,|Nationwide Insurance|,||,|Y0000|,||,|C|,|Legal Services|,
+|A100109521|,|S|,|N00003682|,|10|,|Y|,|Ross, Sinclaire & Associates|,|Ross, Sinclaire & Assoc|,||,|Y0000|,||,|C|,|Legal Services|,
+|A100109522|,|S|,|N00003682|,|10|,|Y|,|Advance Textile Systems, LLC|,|Advance Textile Systems LLC|,||,|Y0000|,||,|L|,|Legal Services|,
+|A100109523|,|S|,|N00003682|,|10|,|Y|,|Sycamore Energy Group, LLC|,|Sycamore Energy Group|,||,|Y0000|,||,|C|,|Legal Services|,
+|A100109524|,|S|,|N00003682|,|10|,|Y|,|JP Morgan Chase Trust Co.|,|JP Morgan Chase Trust Co|,||,|Y0000|,||,|N|,|Legal Services|,
+|A100115432|,|S|,|N00030612|,|10|,|Y|,|Service Stations Maintenance (client of Marco Rubio, P.A.)|,|Service Stations Maintenance|,||,|Y0000|,||,|M|,|Legal Services|,
+|A100115433|,|S|,|N00030612|,|10|,|Y|,|Braman Management (client of Marco Rubio P.A.)|,|Braman Management|,||,|Y0000|,||,|M|,|Legal Services|,
+|A100115434|,|S|,|N00030612|,|10|,|Y|,|Marin & Sons (client of Rubio Consulting and Marco Rubio, P.A.)|,|Marin & Sons|,||,|Y0000|,||,|M|,|Legal Services (Consulting services through Rubio Consulting)|,
+|A100115435|,|S|,|N00030612|,|10|,|Y|,|Court Options (client of Fla. Strategic Consulting and Marco Rubio, P.A.)|,|Court Options|,||,|Y0000|,||,|M|,|Legal Services (Consulting / legal services through Fla Strategic Consulting)|,
+|A100115436|,|S|,|N00030612|,|10|,|Y|,|Miami Childrens Hospital (client of Fla. Strategic Consulting and Marco Rubio P.A.)|,|Miami Childrens Hospital|,||,|Y0000|,||,|M|,|Legal Services (Consulting / legal services through Fla Strategic Consulting)|,
+|A100115437|,|S|,|N00030612|,|10|,|Y|,|Larkin Community Hospital (client of Marco Rubio, P.A.)|,|Larkin Community Hospital|,||,|Y0000|,||,|M|,|Legal Services|,
+|A100115438|,|S|,|N00030612|,|10|,|Y|,|Hypower Electric (client of Marco Rubio, P.A.)|,|Hypower Electric|,||,|Y0000|,||,|M|,|Legal Services|,
+|A100115439|,|S|,|N00030612|,|10|,|Y|,|Jackson Memorial Hospital (client of Fla. Strategic Consulting and Marco Rubio P.A.)|,|Jackson Memorial Hospital|,||,|Y0000|,||,|M|,|Legal and Consulting Services|,
+|A100115440|,|S|,|N00030612|,|10|,|Y|,|Florida International University|,|Florida International University|,||,|H5100|,|Name|,|M|,|Visiting Professor|,
+|A100115441|,|S|,|N00030612|,|10|,|Y|,|Florida Strategic Consulting|,|Florida Strategic Consulting|,||,|Y0000|,||,|M|,|Consulting and Legal Services|,
+|A100115442|,|S|,|N00030612|,|10|,|Y|,|Broad & Cassel|,|Broad & Cassel|,||,|K1000|,|MH03|,|M|,|Legal Services|,
+|A100115443|,|S|,|N00030612|,|10|,|Y|,|State of Florida|,|State of Florida|,||,|X3000|,|Name|,|T|,|State Government / Legislator|,
+|A100115444|,|S|,|N00030612|,|10|,|Y|,|Univision Network (client of Rubio Consulting)|,|Univision Network|,||,|Y0000|,||,|M|,|On-air Political Analysis|,
+|A100115445|,|S|,|N00030612|,|10|,|Y|,|Marco Rubio, P.A.|,|Marco Rubio PA|,||,|K1000|,|WebDA|,|M|,|Legal Services|,
+|A100115446|,|S|,|N00030612|,|10|,|Y|,|Rubio Consulting|,|Rubio Consulting|,||,|Y0000|,||,|M|,|Legal and Consulting Services|,
+|A100115447|,|S|,|N00030612|,|10|,|Y|,|MGI Hotels (client of Marco Rubio, PA)|,|MGI Hotels|,||,|Y0000|,||,|M|,|Legal Services|,
+|A100115721|,|S|,|N00031688|,|10|,|Y|,|State of North Dakota|,|State of North Dakota|,||,|X3000|,|Name|,|B|,|Governor of the State|,
+|A100115722|,|S|,|N00031688|,|10|,|Y|,|First Western Bank & Trust|,|First Western Bank & Trust|,||,|F1100|,|AYP98|,|M|,|Board of Director Fees|,
+|A100115991|,|S|,|N00032546|,|10|,|Y|,|Pacur, LLC|,|Pacur LLC|,||,|M1500|,|Rept|,|O|,|Management Services|,
+|A100116598|,|E|,|N99999914|,|10|,|N|,|JPMorgan Chase & Co.|,|JPMorgan Chase & Co|,||,|F1100|,|PAC|,|N|,|Vice Chairman of Midwest Division|,
+|A100116599|,|E|,|N99999914|,|10|,|N|,|Abbott Laboratories|,|Abbott Laboratories|,||,|H4300|,|PAC|,|C|,|Member of Board of Directors|,
+|A100116600|,|E|,|N99999914|,|10|,|N|,|Boeing Company|,|Boeing Co|,||,|D2000|,|PAC|,|C|,|Member of Board of Directors|,
+|A100116659|,|E|,|N99999934|,|10|,|N|,|Davis Wright Tremaine LLP|,|Davis Wright Tremaine LLP|,||,|K1000|,|PAC|,|S|,|Legal Services, Non-Equity Partner|,
+|A100116660|,|E|,|N99999934|,|10|,|N|,|Key Technology|,|Key Technology|,||,|Y0000|,||,|W|,|Director's Fees|,
+|A100116661|,|E|,|N99999934|,|10|,|N|,|Hainan Airlines|,|Hainan Airlines|,||,|Y0000|,||,|S|,|Legal Services|,
+|A100130769|,|S|,|N00003845|,|10|,|Y|,|King & Spalding, LLP|,|King & Spalding|,||,|K1200|,|PAC|,|W|,|Legal Services|,
+|A100130770|,|S|,|N00003845|,|10|,|Y|,|Nanoink, Inc|,|NanoInk Inc|,||,|Y0000|,||,|S|,|Board Member|,
+|A100136469|,|S|,|N00030836|,|10|,|Y|,|Rand Paul MD PSL|,|Rand Paul MD PSL|,||,|Y0000|,||,|B|,|physician|,
+|Q100007128|,|E|,|N99999912|,|10|,|N|,|BP Corporation|,|BP Corp|,||,|Y0000|,||,||,|Director's Fee|,
+|Q100007129|,|E|,|N99999912|,|10|,|N|,|Pacific Maritime Association|,|Pacific Maritime Assn|,||,|Y0000|,||,||,|Governmental Advisor Fee|,
+|Q100007130|,|E|,|N99999912|,|10|,|N|,|Meridian Institute|,|Meridian Institute|,||,|Y0000|,||,||,|Consulting Fee|,
+|Q100007131|,|E|,|N99999912|,|10|,|N|,|Blue Shield of California|,|Blue Shield of California|,||,|Y0000|,||,||,|Director's Fee|,
+|Q100007132|,|E|,|N99999912|,|10|,|N|,|Fleishman-Hillard, Inc.|,|Fleishman-Hillard Inc|,|Omnicom Group|,|G5210|,|PAC|,||,|Director's Fee|,
+|Q100007408|,|E|,|N99999912|,|10|,|N|,|Zenith National Insurance Corp.|,|Zenith National Insurance|,||,|F3100|,|name|,||,|Director's Fee|,
+|Q100007415|,|E|,|N99999912|,|10|,|N|,|Corinthian Colleges, Inc.|,|Corinthian Colleges|,||,|H5300|,|PAC|,||,|Director's Fee|,
+|C110042969|,|E|,|N99999903|,|11|,|N|,|Edison International|,|Edison International|,||,|E1600|,|PAC|,|R|,|Retired Executive - Deferred Compensation payouts, remaining stock options, and Advisory services|,
+|C110042970|,|E|,|N99999903|,|11|,|N|,|The Walt Disney Company|,|Walt Disney Co|,||,|C2000|,|PAC|,|B|,|Board of Directors|,
+|C110042971|,|E|,|N99999903|,|11|,|N|,|The Boeing Company|,|Boeing Co|,||,|D2000|,|PAC|,|S|,|Board of Directors|,
+|C110042972|,|E|,|N99999903|,|11|,|N|,|Kravis Kohlberg Roberts & Co (KKR)|,|KKR & Co|,||,|F2600|,|Lob11|,|N|,|Senior Advisor|,
+|C110042973|,|E|,|N99999903|,|11|,|N|,|Wells Fargo|,|Wells Fargo|,||,|F1100|,|PAC|,|M|,|Deferred Compensation from First Interstate Bank (former board member)|,
+|C110042974|,|E|,|N99999903|,|11|,|N|,|Deutsche Bank AG 100 Plaza One|,|Deutsche Bank AG|,||,|F1100|,|hvr06|,|J|,|Advisory Board|,
+|C110042981|,|E|,|N99999903|,|11|,|N|,|BrightSource Energy, Inc|,|BrightSource Energy|,||,|E1500|,|Lob11|,|O|,|Chairman of the Board|,
+|C110042982|,|E|,|N99999903|,|11|,|N|,|On-Ramp Wireless|,|On-Ramp Wireless|,||,|Y0000|,||,|S|,|Advisory Board Member|,
+|C110042983|,|E|,|N99999903|,|11|,|N|,|Ostendo Technologies|,|Ostendo Technologies|,||,|Y0000|,||,|C|,|Advisory Board Member|,
+|R090043636|,|E|,|N99999906|,|09|,|Y|,|MMP Group, Inc.|,|MMP Group|,||,|Y0000|,||,|B|,|Compensation for serving as President prior to appointment, April 6, 2009|,
+|S090020007|,|S|,|N00032546|,|09|,|N|,|Pacur, LLC|,|Pacur LLC|,||,|M1500|,|Rept|,||,|Management Services|,|d|
+|R100020239|,|S|,|N00032546|,|10|,|Y|,|Pacur, LLC|,|Pacur LLC|,||,|M1500|,|Rept|,||,|Management Services|,
+|D110020336|,|S|,|N00033085|,|11|,|N|,|Ace Cash Express|,|Ace Cash Express|,||,|F1420|,|PAC|,||,|Legal Services|,
+|D110020337|,|S|,|N00033085|,|11|,|N|,|Astra Zeneca|,|AstraZeneca Plc|,||,|H4300|,|Hvr09|,||,|Legal Services|,
+|D110020338|,|S|,|N00033085|,|11|,|N|,|B. Braun Medical Inc.|,|B Braun Medical Inc|,||,|Y0000|,||,||,|Legal Services|,
+|D110020339|,|S|,|N00033085|,|11|,|N|,|BCSW LLC d/b/a Just Brakes|,|Just Brakes|,||,|Y0000|,||,||,|Legal Services|,
+|D110020340|,|S|,|N00033085|,|11|,|N|,|Ceva Logistics|,|Ceva Logistics|,||,|Y0000|,||,||,|Legal Services|,
+|D110020341|,|S|,|N00033085|,|11|,|N|,|Dell Inc.|,|Dell Inc|,||,|C5100|,|PAC|,||,|Legal Services|,
+|D110020342|,|S|,|N00033085|,|11|,|N|,|Dentsply International|,|Dentsply International|,||,|Y0000|,||,||,|Legal Services|,
+|D110020343|,|S|,|N00033085|,|11|,|N|,|Driscoll Childrens Hospital|,|Driscoll Childrens Hospital|,||,|Y0000|,||,||,|Legal Services|,
+|D110020344|,|S|,|N00033085|,|11|,|N|,|East Wildlife Foundation|,|East Wildlife Foundation|,||,|Y0000|,||,||,|Legal Services|,
+|D110020345|,|S|,|N00033085|,|11|,|N|,|EMD Serono, Inc.|,|EMD Serono Inc|,|Merck KGaA|,|H4500|,|PAC|,||,|Legal Services|,
+|D110020346|,|S|,|N00033085|,|11|,|N|,|Federation of State Medical Boards|,|Federation of State Medical Boards|,||,|Y0000|,||,||,|Legal Services|,
+|D110020347|,|S|,|N00033085|,|11|,|N|,|Fedex Ground Package System Inc.|,|Fedex Ground Package System|,||,|Y0000|,||,||,|Legal Services|,
+|D110020348|,|S|,|N00033085|,|11|,|N|,|ELFC Holdings Inc.|,|ELFC Holdings|,||,|Y0000|,||,||,|Legal Services|,
+|D110020349|,|S|,|N00033085|,|11|,|N|,|Google Inc.|,|Google Inc|,||,|C5140|,|PAC|,||,|Legal Services|,
+|D110020350|,|S|,|N00033085|,|11|,|N|,|Groupe SEB|,|Groupe SEB|,||,|Y0000|,||,||,|Legal Services|,
+|D110020351|,|S|,|N00033085|,|11|,|N|,|HCA|,|HCA|,||,|Y0000|,||,||,|Legal Services|,
+|D110020352|,|S|,|N00033085|,|11|,|N|,|Albert Hill, Jr.|,|Albert Hill Jr|,||,|Y0000|,||,||,|Legal Services|,
+|D110020353|,|S|,|N00033085|,|11|,|N|,|International Paper Co|,|International Paper Co|,||,|A5200|,|Name|,||,|Legal Services|,
+|D110020354|,|S|,|N00033085|,|11|,|N|,|Ivy Minerals|,|Ivy Minerals|,||,|Y0000|,||,||,|Legal Services|,
+|D110020355|,|S|,|N00033085|,|11|,|N|,|JP Morgan Chase|,|JPMorgan Chase & Co|,||,|F1100|,|PAC|,||,|Legal Services|,
+|D110020356|,|S|,|N00033085|,|11|,|N|,|Lori Keith|,|Lori Keith|,||,|Y0000|,||,||,|Legal Services|,
+|D110020357|,|S|,|N00033085|,|11|,|N|,|Kraft Foods Inc|,|Kraft Foods|,||,|G2100|,|PAC|,||,|Legal Services|,
+|D110020358|,|S|,|N00033085|,|11|,|N|,|Robert Mericle|,|Robert Mericle|,||,|Y0000|,||,||,|Legal Services|,
+|D110020359|,|S|,|N00033085|,|11|,|N|,|National Chamber Litigation Center|,|National Chamber Litigation Center|,||,|Y0000|,||,||,|Legal Services|,
+|D110020360|,|S|,|N00033085|,|11|,|N|,|Pfizer Inc|,|Pfizer Inc|,||,|H4300|,|PAC|,||,|Legal Services|,
+|D110020361|,|S|,|N00033085|,|11|,|N|,|Reliance Standard|,|Reliance Standard|,||,|Y0000|,||,||,|Legal Services|,
+|D110020362|,|S|,|N00033085|,|11|,|N|,|RGA-Republican Governors Association|,|Republican Governors Assn|,||,|Y0000|,||,||,|Legal Services|,
+|D110020363|,|S|,|N00033085|,|11|,|N|,|Schlumberger Technology|,|Schlumberger Technology|,||,|Y0000|,||,||,|Legal Services|,
+|D110020364|,|S|,|N00033085|,|11|,|N|,|Seneca Free Trane Ass'n|,|Seneca Free Trane Assn|,||,|Y0000|,||,||,|Legal Services|,
+|D110020365|,|S|,|N00033085|,|11|,|N|,|Shandong Linglong Rubber Co.|,|Shandong Linglong Rubber|,||,|Y0000|,||,||,|Legal Services|,
+|D110020366|,|S|,|N00033085|,|11|,|N|,|Toyota Motor Sales|,|Toyota Motor Sales|,||,|Y0000|,||,||,|Legal Services|,
+|D110020367|,|S|,|N00033085|,|11|,|N|,|Wal-Mart Stores|,|Wal-Mart Stores|,||,|G4300|,|PAC|,||,|Legal Services|,
+|D110020416|,|S|,|N00033443|,|11|,|N|,|Nebraska Legislature|,|Nebraska Legislature|,||,|Y0000|,||,||,|Legislative Services|,
+|D110020458|,|S|,|N00033492|,|11|,|N|,|Harvard University|,|Harvard University|,||,|H5100|,|Lob11|,||,|Faculty|,
+|D110020459|,|S|,|N00033492|,|11|,|N|,|Kenny Nachwalder, PA|,|Kenny Nachwalder PA|,||,|Y0000|,||,||,|Expert|,
+|D110020460|,|S|,|N00033492|,|11|,|N|,|Travelers Insurance Co.|,|Travelers Insurance|,|Travelers Companies|,|F3400|,|Hvr06|,||,|Consultant|,
+|D110020461|,|S|,|N00033492|,|11|,|N|,|WilmerHale|,|WilmerHale|,||,|Y0000|,||,||,|Honoraria|,
+|D110020462|,|S|,|N00033492|,|11|,|N|,|Aspen Publishers|,|Aspen Publishers|,||,|Y0000|,||,||,|Editorial Board|,
+|D110020473|,|S|,|N00033492|,|11|,|N|,|Harvard University|,|Harvard University|,||,|H5100|,|Lob11|,||,|Faculty|,
+|D110020474|,|S|,|N00033492|,|11|,|N|,|Kenny Nachwalder PA|,|Kenny Nachwalder PA|,||,|Y0000|,||,||,|Expert|,
+|D110020475|,|S|,|N00033492|,|11|,|N|,|Travelers Insurance Co.|,|Travelers Insurance|,|Travelers Companies|,|F3400|,|Hvr06|,||,|Consultant|,
+|D110020476|,|S|,|N00033492|,|11|,|N|,|WilmerHale|,|WilmerHale|,||,|Y0000|,||,||,|Honoraria|,
+|D110020477|,|S|,|N00033492|,|11|,|N|,|Aspen Publishers|,|Aspen Publishers|,||,|Y0000|,||,||,|Editorial Board|,
+|D110020578|,|S|,|N00033782|,|11|,|N|,|Abrams Information Learning Systems|,|Abrams Information Learning Systems|,||,|Y0000|,||,||,|Advisory Board payment made to HH, Inc|,
+|D110020579|,|S|,|N00033782|,|11|,|N|,|The Century Council|,|Century Council|,||,|K2000|,|Lob11|,||,|Advisory Board Payment made to HH, Inc|,
+|D110020580|,|S|,|N00033782|,|11|,|N|,|Dakota Gasification Company|,|Dakota Gasification Co|,||,|Y0000|,||,||,|Board Payment|,
+|D110020581|,|S|,|N00033782|,|11|,|N|,|Radio Fargo Moorhead|,|Radio Fargo Moorhead|,||,|Y0000|,||,||,|On Air Talent payment made to HH, Inc|,
+|D110020582|,|S|,|N00033782|,|11|,|N|,|Heidi Heitkamp, Inc|,|Heidi Heitkamp Inc|,||,|Y0000|,||,||,|President|,
+|D110020783|,|S|,|N00034580|,|11|,|N|,|Bowdoin College|,|Bowdoin College|,||,|H5100|,|Name|,||,|Adjunct Professor|,
+|D110020784|,|S|,|N00034580|,|11|,|N|,|Bates College|,|Bates College|,||,|H5100|,|Name|,||,|Adjunct Professor|,
+|D110020785|,|S|,|N00034580|,|11|,|N|,|Trust U/W/O Roger Kline FBO Matthew Kline|,|Trust UWO Roger Kline FBO Matthew Kline|,||,|Y0000|,||,||,|Executor Trustee for Benefit of Matthew Kline|,
+|D110020786|,|S|,|N00034580|,|11|,|N|,|Goold Health Systems Inc|,|Goold Health Systems|,||,|Y0000|,||,||,|Advisory Board Member|,
+|D110020787|,|S|,|N00034580|,|11|,|N|,|Hancock Lumber Company Inc|,|Hancock Lumber|,||,|B5200|,|Name|,||,|Board Director|,
+|D110020788|,|S|,|N00034580|,|11|,|N|,|Lee Management Company|,|Lee Management Company|,||,|Y0000|,||,||,|Advisory Board Member|,
+|D110020789|,|S|,|N00034580|,|11|,|N|,|SBM Financial Inc/The Bank of Maine|,|SBM Financial/Bank of Maine|,||,|Y0000|,||,||,|Board Director|,
+|D110020790|,|S|,|N00034580|,|11|,|N|,|Woodard & Curran|,|Woodard & Curran|,||,|Y0000|,||,||,|Board Director|,
+|D110020791|,|S|,|N00034580|,|11|,|N|,|Bernstein Shur Sawyer & Nelson|,|Bernstein, Shur et al                   |,||,|Y0000|,||,||,|Business Development & Strategy Consultant|,
+|D110020792|,|S|,|N00034580|,|11|,|N|,|Leaders LLC|,|Leaders LLC|,||,|Y0000|,||,||,|Business Consultant|,
+|D110020793|,|S|,|N00034580|,|11|,|N|,|Northern New England Law Publishers Inc|,|Northern New England Law Publishers Inc|,||,|Y0000|,||,||,|Keynote Speaker|,
+|D110020794|,|S|,|N00034580|,|11|,|N|,|WP Stewart & Co Ltd|,|WP Stewart & Co|,||,|K1000|,|Rept|,||,|Board Director|,
+|D110020795|,|S|,|N00034580|,|11|,|N|,|General Dynamics Inc/Bath Iron Works|,|General Dynamics/Bath Iron Works|,||,|Y0000|,||,||,|Keynote Speaker|,
+|D110020796|,|S|,|N00034580|,|11|,|N|,|Icon Group Ltd|,|Icon Group Ltd|,||,|Y0000|,||,||,|Keynote Speaker|,
+|D110020797|,|S|,|N00034580|,|11|,|N|,|Independence Wind LLC|,|Independence Wind LLC|,||,|Y0000|,||,||,|Development of Wind Energy Projects|,
+|D110020798|,|S|,|N00034580|,|11|,|N|,|Highland Wind Holdings LLC/Client of Independence Wind LLC|,|Highland Wind Holdings|,||,|Y0000|,||,||,|Project Development Services|,
+|D110020799|,|S|,|N00034580|,|11|,|N|,|Record Hill Wind Holdings LLC/Client of Independence Wind LLC|,|Record Hill Wind Holdings|,||,|Y0000|,||,||,|Project Development Services|,
+|A120007270|,|H|,|N00033101|,|11|,|N|,|Alfred G. Goldstein|,|Goldstein, Alfred G|,||,|Y0000|,||,||,||,
+|D110005426|,|H|,|N00012546|,|11|,|N|,|Wireless Generation|,|Wireless Generation|,||,|C5130|,|Lob11|,||,||,|d|
+|D110005449|,|H|,|N00012546|,|11|,|N|,|Wireless Generation|,|Wireless Generation|,||,|C5130|,|Lob11|,||,||,|d|
+|D110005492|,|H|,|N00021207|,|11|,|N|,|Premier South By Realty|,|Premier South By Realty|,||,|Y0000|,||,||,||,
+|D110005493|,|H|,|N00021207|,|11|,|N|,|Guardian Giram - Simple|,|Guardian Giram - Simple|,||,|Y0000|,||,||,||,
+|D110005494|,|H|,|N00021207|,|11|,|N|,|State of Minnesota|,|State of Minnesota|,||,|X3000|,|Name|,||,||,
+|D110005495|,|H|,|N00021207|,|11|,|N|,|Tree Moving By Mike Nolan|,|Tree Moving by Mike Nolan|,||,|Y0000|,||,||,||,
+|D110005935|,|H|,|N00029400|,|11|,|N|,|New Mexico Medical Insurance Pool|,|New Mexico Medical Insurance Pool|,||,|Y0000|,||,||,||,|d|
+|D110005948|,|H|,|N00029908|,|11|,|N|,|Sanchez, Medina, Gonzalez, Quesada LLC|,|Sanchez-Medina Gonzalez Quesada LLC|,||,|Y0000|,||,||,||,
+|D110006217|,|H|,|N00030875|,|11|,|N|,|Women's Fund of NH|,|Women's Fund of NH|,||,|Y0000|,||,||,||,
+|D110006218|,|H|,|N00030875|,|11|,|N|,|NH Center for Nonprofits|,|NH Center for Nonprofits|,||,|Y0000|,||,||,||,
+|D110006219|,|H|,|N00030875|,|11|,|N|,|The Palace Theatre|,|Palace Theatre|,||,|Y0000|,||,||,||,
+|D110006220|,|H|,|N00030875|,|11|,|N|,|America Votes (Jan-March '11)|,|America Votes|,||,|J1200|,|PAC|,||,||,
+|D110006221|,|H|,|N00030875|,|11|,|N|,|Riverbend Community Mental Health|,|Riverbend Community Mental Health|,||,|Y0000|,||,||,||,
+|D110006383|,|H|,|N00031253|,|11|,|N|,|Bank of New York Mellon|,|Bank of New York Mellon|,||,|F2100|,|PAC|,||,||,
+|D110007578|,|H|,|N00033220|,|11|,|N|,|Alex Longars|,|Longars, Alex|,||,|Y0000|,||,||,||,
+|D110007579|,|H|,|N00033220|,|11|,|N|,|Camp Kulaqua|,|Camp Kulaqua|,||,|Y0000|,||,||,||,
+|D110007580|,|H|,|N00033220|,|11|,|N|,|Sharleen Exler|,|Sharleen Exler|,||,|Y0000|,||,||,||,
+|D110007581|,|H|,|N00033220|,|11|,|N|,|Amy Skelton|,|Amy Skelton|,||,|Y0000|,||,||,||,
+|D110007582|,|H|,|N00033220|,|11|,|N|,|Didi Gordon|,|Didi Gordon|,||,|Y0000|,||,||,||,
+|D110007583|,|H|,|N00033220|,|11|,|N|,|Amanda Hart|,|Amanda Hart|,||,|Y0000|,||,||,||,
+|D110007584|,|H|,|N00033220|,|11|,|N|,|Ben Tindley|,|Ben Tindley|,||,|Y0000|,||,||,||,
+|D110007585|,|H|,|N00033220|,|11|,|N|,|Marry Harris|,|Marry Harris|,||,|Y0000|,||,||,||,
+|D110007586|,|H|,|N00033220|,|11|,|N|,|Tommy Taylor|,|Tommy Taylor|,||,|Y0000|,||,||,||,
+|D110007703|,|H|,|N00033316|,|11|,|N|,|Graciela Chavarria|,|Graciela Chavarria|,||,|Y0000|,||,||,||,
+|D110007704|,|H|,|N00033316|,|11|,|N|,|Martha Guerrero|,|Martha Guerrero|,||,|Y0000|,||,||,||,
+|D110007713|,|H|,|N00033363|,|11|,|N|,|McKinsey & Co.|,|McKinsey & Co|,||,|G5270|,|WebPN|,||,||,
+|D110008043|,|H|,|N00033539|,|11|,|N|,|Adams, Stacy & Michele|,|Adams, Stacy & Michele|,||,|Y0000|,||,||,||,
+|D110008044|,|H|,|N00033539|,|11|,|N|,|Aguirre, Charles|,|Aguirre, Charles|,||,|Y0000|,||,||,||,
+|D110008045|,|H|,|N00033539|,|11|,|N|,|Alvin, City of|,|City of Alvin|,||,|Y0000|,||,||,||,
+|D110008046|,|H|,|N00033539|,|11|,|N|,|Bartlett, Charles|,|Bartlett, Charles|,||,|Y0000|,||,||,||,
+|D110008047|,|H|,|N00033539|,|11|,|N|,|Bates, Marilyn|,|Bates, Marilyn|,||,|Y0000|,||,||,||,
+|D110008048|,|H|,|N00033539|,|11|,|N|,|Bates, Robert|,|Bates, Robert|,||,|Y0000|,||,||,||,
+|D110008049|,|H|,|N00033539|,|11|,|N|,|Bauer, George & Denise|,|Bauer, George & Denise|,||,|Y0000|,||,||,||,
+|D110008050|,|H|,|N00033539|,|11|,|N|,|Bieszke, Steve|,|Bieszke, Steve|,||,|Y0000|,||,||,||,
+|D110008051|,|H|,|N00033539|,|11|,|N|,|Bloss, Jim|,|Bloss, Jim|,||,|Y0000|,||,||,||,
+|D110008052|,|H|,|N00033539|,|11|,|N|,|Bootenhoff, Jesse & Jerry|,|Bootenhoff, Jesse & Jerry|,||,|Y0000|,||,||,||,
+|D110008053|,|H|,|N00033539|,|11|,|N|,|Bransom, Elizabeth|,|Bransom, Elizabeth|,||,|Y0000|,||,||,||,
+|D110008054|,|H|,|N00033539|,|11|,|N|,|Breaz, Chris|,|Breaz, Chris|,||,|Y0000|,||,||,||,
+|D110008055|,|H|,|N00033539|,|11|,|N|,|Brenner, Mark & Marcia|,|Brenner, Mark & Marcia|,||,|Y0000|,||,||,||,
+|D110008056|,|H|,|N00033539|,|11|,|N|,|Brown, Lee|,|Brown, Lee|,||,|Y0000|,||,||,||,
+|D110008057|,|H|,|N00033539|,|11|,|N|,|Burton, Helen & Herman|,|Burton, Helen & Herman|,||,|Y0000|,||,||,||,
+|D110008058|,|H|,|N00033539|,|11|,|N|,|Byrd, Rick|,|Byrd, Rick|,||,|Y0000|,||,||,||,
+|D110008059|,|H|,|N00033539|,|11|,|N|,|Caldwell, John|,|Caldwell, John|,||,|Y0000|,||,||,||,
+|D110008060|,|H|,|N00033539|,|11|,|N|,|Cathy's Candiland|,|Cathy's Candiland|,||,|Y0000|,||,||,||,
+|D110008061|,|H|,|N00033539|,|11|,|N|,|Cavanaugh, Don|,|Cavanaugh, Don|,||,|Y0000|,||,||,||,
+|D110008062|,|H|,|N00033539|,|11|,|N|,|Charro, Debra|,|Charro, Debra|,||,|Y0000|,||,||,||,
+|D110008063|,|H|,|N00033539|,|11|,|N|,|Chocolate Bayou Baptist Church|,|Chocolate Bayou Baptist Church|,||,|Y0000|,||,||,||,
+|D110008064|,|H|,|N00033539|,|11|,|N|,|Christ's Covenant Church|,|Christ's Covenant Church|,||,|Y0000|,||,||,||,
+|D110008065|,|H|,|N00033539|,|11|,|N|,|Clark, Mark & Stacy|,|Clark, Mark & Stacy|,||,|Y0000|,||,||,||,
+|D110008066|,|H|,|N00033539|,|11|,|N|,|Claws & Paws|,|Claws & Paws|,||,|Y0000|,||,||,||,
+|D110008067|,|H|,|N00033539|,|11|,|N|,|Clements, Clint & Becky|,|Clements, Clint & Becky|,||,|Y0000|,||,||,||,
+|D110008068|,|H|,|N00033539|,|11|,|N|,|Coleman, Roy & Lisa|,|Coleman, Roy & Lisa|,||,|Y0000|,||,||,||,
+|D110008069|,|H|,|N00033539|,|11|,|N|,|Cooley, Debbie|,|Cooley, Debbie|,||,|Y0000|,||,||,||,
+|D110008070|,|H|,|N00033539|,|11|,|N|,|Coolidge, C J & Debby|,|Coolidge, CJ & Debby|,||,|Y0000|,||,||,||,
+|D110008071|,|H|,|N00033539|,|11|,|N|,|Country Place/Carriage House|,|Country Place/Carriage House|,||,|Y0000|,||,||,||,
+|D110008072|,|H|,|N00033539|,|11|,|N|,|Darby, Craig|,|Darby, Craig|,||,|Y0000|,||,||,||,
+|D110008073|,|H|,|N00033539|,|11|,|N|,|Derr, George|,|Derr, George|,||,|Y0000|,||,||,||,
+|D110008074|,|H|,|N00033539|,|11|,|N|,|Dietrich, Brian & Nancy|,|Dietrich, Brian & Nancy|,||,|Y0000|,||,||,||,
+|D110008075|,|H|,|N00033539|,|11|,|N|,|Dillmann, Suzanne|,|Dillmann, Suzanne|,||,|Y0000|,||,||,||,
+|D110008076|,|H|,|N00033539|,|11|,|N|,|Evertz, Anthony|,|Evertz, Anthony|,||,|Y0000|,||,||,||,
+|D110008077|,|H|,|N00033539|,|11|,|N|,|Faulk, Brent|,|Faulk, Brent|,||,|Y0000|,||,||,||,
+|D110008078|,|H|,|N00033539|,|11|,|N|,|Flores, Joan|,|Flores, Joan|,||,|Y0000|,||,||,||,
+|D110008079|,|H|,|N00033539|,|11|,|N|,|Frament, Michael & Sonda|,|Frament, Michael & Sonda|,||,|Y0000|,||,||,||,
+|D110008080|,|H|,|N00033539|,|11|,|N|,|Good Shepherd Episcopal|,|Good Shepherd Episcopal|,||,|Y0000|,||,||,||,
+|D110008081|,|H|,|N00033539|,|11|,|N|,|Gracia, Bert & Susan|,|Gracia, Bert & Susan|,||,|Y0000|,||,||,||,
+|D110008082|,|H|,|N00033539|,|11|,|N|,|Hankins, Randy|,|Hankins, Randy|,||,|Y0000|,||,||,||,
+|D110008083|,|H|,|N00033539|,|11|,|N|,|Hayes, Bill|,|Hayes, Bill|,||,|Y0000|,||,||,||,
+|D110008084|,|H|,|N00033539|,|11|,|N|,|Heileman, Stefani & Eric|,|Heileman, Stefani & Eric|,||,|Y0000|,||,||,||,
+|D110008085|,|H|,|N00033539|,|11|,|N|,|Herrera, Gilbert|,|Herrera, Gilbert|,||,|Y0000|,||,||,||,
+|D110008086|,|H|,|N00033539|,|11|,|N|,|Hokanson, Kristopher|,|Hokanson, Kristopher|,||,|Y0000|,||,||,||,
+|D110008087|,|H|,|N00033539|,|11|,|N|,|Hughes, Patrick & Jennifer|,|Hughes, Patrick & Jennifer|,||,|Y0000|,||,||,||,
+|D110008088|,|H|,|N00033539|,|11|,|N|,|Industrial Solutions|,|Industrial Solutions|,||,|Y0000|,||,||,||,
+|D110008089|,|H|,|N00033539|,|11|,|N|,|Jacobson, Guillermo|,|Jacobson, Guillermo|,||,|Y0000|,||,||,||,
+|D110008090|,|H|,|N00033539|,|11|,|N|,|Jacoby, Joni|,|Jacoby, Joni|,||,|Y0000|,||,||,||,
+|D110008091|,|H|,|N00033539|,|11|,|N|,|Johnson, Billie & Bob|,|Johnson, Billie & Bob|,||,|Y0000|,||,||,||,
+|D110008092|,|H|,|N00033539|,|11|,|N|,|Johnson, Keith & Laura|,|Johnson, Keith & Laura|,||,|Y0000|,||,||,||,
+|D110008093|,|H|,|N00033539|,|11|,|N|,|Jones, Barton & Cheri|,|Jones, Barton & Cheri|,||,|Y0000|,||,||,||,
+|D110008094|,|H|,|N00033539|,|11|,|N|,|Jones, Dale & Nicole|,|Jones, Dale & Nicole|,||,|Y0000|,||,||,||,
+|D110008095|,|H|,|N00033539|,|11|,|N|,|Kanard, Chris|,|Kanard, Chris|,||,|Y0000|,||,||,||,
+|D110008096|,|H|,|N00033539|,|11|,|N|,|Kegley, John|,|Kegley, John|,||,|Y0000|,||,||,||,
+|D110008097|,|H|,|N00033539|,|11|,|N|,|Kerr, Mary|,|Kerr, Mary|,||,|Y0000|,||,||,||,
+|D110008098|,|H|,|N00033539|,|11|,|N|,|Kersh, Michael & Joanna|,|Kersh, Michael & Joanna|,||,|Y0000|,||,||,||,
+|D110008099|,|H|,|N00033539|,|11|,|N|,|Kidwell, Pat & Mona|,|Kidwell, Pat & Mona|,||,|Y0000|,||,||,||,
+|D110008100|,|H|,|N00033539|,|11|,|N|,|King, Amy|,|King, Amy|,||,|Y0000|,||,||,||,
+|D110008101|,|H|,|N00033539|,|11|,|N|,|Kipp, Kathy|,|Kipp, Kathy|,||,|Y0000|,||,||,||,
+|D110008102|,|H|,|N00033539|,|11|,|N|,|Klad Manufactoring|,|Klad Manufactoring|,||,|Y0000|,||,||,||,
+|D110008103|,|H|,|N00033539|,|11|,|N|,|Knudsen, Jim|,|Knudsen, Jim|,||,|Y0000|,||,||,||,
+|D110008104|,|H|,|N00033539|,|11|,|N|,|Koogler, John|,|Koogler, John|,||,|Y0000|,||,||,||,
+|D110008105|,|H|,|N00033539|,|11|,|N|,|Kozel, Andrew|,|Kozel, Andrew|,||,|Y0000|,||,||,||,
+|D110008106|,|H|,|N00033539|,|11|,|N|,|Kubin, Jim|,|Kubin, Jim|,||,|Y0000|,||,||,||,
+|D110008107|,|H|,|N00033539|,|11|,|N|,|Lee, Danny & Kim|,|Lee, Danny & Kim|,||,|Y0000|,||,||,||,
+|D110008108|,|H|,|N00033539|,|11|,|N|,|Leverenz, Susan|,|Leverenz, Susan|,||,|Y0000|,||,||,||,
+|D110008109|,|H|,|N00033539|,|11|,|N|,|Lovell, Jeffrey|,|Lovell, Jeffrey|,||,|Y0000|,||,||,||,
+|D110008110|,|H|,|N00033539|,|11|,|N|,|Lukoschek, Jill|,|Lukoschek, Jill|,||,|Y0000|,||,||,||,
+|D110008111|,|H|,|N00033539|,|11|,|N|,|Mancil, Eileen|,|Mancil, Eileen|,||,|Y0000|,||,||,||,
+|D110008112|,|H|,|N00033539|,|11|,|N|,|Manvel, City of|,|City of Manvel|,||,|Y0000|,||,||,||,
+|D110008113|,|H|,|N00033539|,|11|,|N|,|Marino, Greg|,|Marino, Greg|,||,|Y0000|,||,||,||,
+|D110008114|,|H|,|N00033539|,|11|,|N|,|Marsh, Gary|,|Marsh, Gary|,||,|Y0000|,||,||,||,
+|D110008115|,|H|,|N00033539|,|11|,|N|,|McCann, Steve & Geraldine|,|McCann, Steve & Geraldine|,||,|Y0000|,||,||,||,
+|D110008116|,|H|,|N00033539|,|11|,|N|,|McMurtry, Michael|,|McMurtry, Michael|,||,|Y0000|,||,||,||,
+|D110008117|,|H|,|N00033539|,|11|,|N|,|Newman, Jason & Jamie|,|Newman, Jason & Jamie|,||,|Y0000|,||,||,||,
+|D110008118|,|H|,|N00033539|,|11|,|N|,|Nolen, Alma|,|Nolen, Alma|,||,|Y0000|,||,||,||,
+|D110008119|,|H|,|N00033539|,|11|,|N|,|Olson, Doug|,|Olson, Doug|,||,|Y0000|,||,||,||,
+|D110008120|,|H|,|N00033539|,|11|,|N|,|Ortiz, Wayne|,|Ortiz, Wayne|,||,|Y0000|,||,||,||,
+|D110008121|,|H|,|N00033539|,|11|,|N|,|Ottosen, Lanny & Carla|,|Ottosen, Lanny & Carla|,||,|Y0000|,||,||,||,
+|D110008122|,|H|,|N00033539|,|11|,|N|,|Patton, Callie|,|Patton, Callie|,||,|Y0000|,||,||,||,
+|N090006090|,|S|,|N00030612|,|09|,|A|,|Jackson Memorial Hospital (client of Florida Strategic Consulting and Marco Rubio PA)|,|Jackson Memorial Hospital|,||,|H2100|,|Name|,|Miami, FL|,|Legal and Consulting Services|,
+|N090006091|,|S|,|N00030612|,|09|,|A|,|Florida International University - Metro Ctr|,|Florida International University/Metro|,|Florida International University|,|Y0000|,||,|Miami, FL|,|Visiting Professor|,
+|N090006092|,|S|,|N00030612|,|09|,|A|,|Florida Strategic Consulting|,|Florida Strategic Consulting|,||,|Y0000|,||,|Miami, FL|,|Legal and Consulting Services|,
+|N090006093|,|S|,|N00030612|,|09|,|A|,|Broad & Cassel|,|Broad & Cassel|,||,|K1000|,|MH03|,|Miami, FL|,|Legal Services|,
+|N090006094|,|S|,|N00030612|,|09|,|A|,|State of Florida|,|State of Florida|,||,|X3000|,|Name|,|Tallahassee, FL|,|State Government / Legislator|,
+|N090006095|,|S|,|N00030612|,|09|,|A|,|Univision Network (client of Rubio Consulting)|,|Univision Network|,||,|Y0000|,||,|Miami, FL|,|On-air Political Analysis|,
+|N090006096|,|S|,|N00030612|,|09|,|A|,|Rubio Consulting|,|Rubio Consulting|,||,|Y0000|,||,|Miami, FL|,|Legal and Consulting Services|,
+|N090006114|,|S|,|N00030836|,|09|,|N|,|Rand Paul MD PSC|,|Rand Paul MD PSC|,||,|H1100|,|Name|,|Bowling Green, KY|,|Physician|,
+|N090006502|,|S|,|N00031685|,|09|,|N|,|State of Connecticut|,|State of Connecticut|,||,|X3000|,|Name|,|Hartford, CT|,|Attorney General of State of Connecticut|,
+|N090007264|,|S|,|N00031688|,|09|,|N|,|State of North Dakota|,|State of North Dakota|,||,|X3000|,|Name|,|Bismarck, ND|,|Governor of the State|,
+|N090007265|,|S|,|N00031688|,|09|,|N|,|First Western Bank & Trust|,|First Western Bank & Trust|,||,|F1100|,|AYP98|,|Minot, ND|,|Board of Director Fees|,
+|N090007266|,|S|,|N00031688|,|09|,|N|,|First Western Bank & Trust|,|First Western Bank & Trust|,||,|F1100|,|AYP98|,|Eden Prairie, MN|,|Board of Director Fees|,
+|N090007280|,|S|,|N00031696|,|09|,|N|,|Schering- Plough|,|Schering- Plough|,||,|Y0000|,||,|WhitehouseStation, NJ|,|Legal Services|,
+|N090007281|,|S|,|N00031696|,|09|,|N|,|Lawrence Sutley|,|Lawrence Sutley|,||,|Y0000|,||,|Orange Beach, AL|,|Legal Services|,
+|N090007282|,|S|,|N00031696|,|09|,|N|,|Benedict Kuene|,|Benedict Kuene|,||,|Y0000|,||,|Miami, FL|,|Legal Services|,
+|N090007283|,|S|,|N00031696|,|09|,|N|,|Redleaf Resources|,|Redleaf Resources|,||,|Y0000|,||,|Salt Lake City, UT|,|Legal Services|,
+|N090007284|,|S|,|N00031696|,|09|,|N|,|Allied Waste|,|Allied Waste|,||,|Y0000|,||,|Phoenix, AZ|,|Legal Services|,
+|N090007285|,|S|,|N00031696|,|09|,|N|,|Energy Solutions|,|Energy Solutions|,||,|Y0000|,||,|Salt Lake City, UT|,|Legal Services|,
+|N090007286|,|S|,|N00031696|,|09|,|N|,|PME Holdings|,|PME Holdings|,||,|Y0000|,||,|Alpine, UT|,|Legal Services|,
+|N090007287|,|S|,|N00031696|,|09|,|N|,|Utah Association of Counties|,|Utah Assn of Counties|,||,|Y0000|,||,|Murray, UT|,|Legal Services|,
+|N090007288|,|S|,|N00031696|,|09|,|N|,|1-800-Contacts|,|1-800-Contacts|,||,|Y0000|,||,|Draper, UT|,|Legal Services|,
+|N090007289|,|S|,|N00031696|,|09|,|N|,|Sportsman for Fish and Wildlife|,|Sportsman for Fish & Wildlife|,||,|Y0000|,||,|Bountiful, UT|,|Legal Services|,
+|N090007290|,|S|,|N00031696|,|09|,|N|,|Uintah County, UT|,|Uintah County, UT|,||,|Y0000|,||,|Vernal, UT|,|Legal Services|,
+|N090007291|,|S|,|N00031696|,|09|,|N|,|Kane County, UT|,|Kane County, UT|,||,|Y0000|,||,|Kanab, UT|,|Legal Services|,
+|N090007292|,|S|,|N00031696|,|09|,|N|,|S.O.S. Ballott|,|SOS Ballott|,||,|Y0000|,||,|Salt Lake City, UT|,|Legal Services|,
+|N090007293|,|S|,|N00031696|,|09|,|N|,|Eli Lilly|,|Eli Lilly Co|,||,|Y0000|,||,|Indianapolis, IN|,|Legal Services|,
+|N090007294|,|S|,|N00031696|,|09|,|N|,|Kenneth Gallacher|,|Kenneth Gallacher|,||,|Y0000|,||,|Las Vegas, NV|,|Legal Services|,
+|N090007321|,|S|,|N00031820|,|09|,|N|,|New Castle County|,|New Castle County, DE|,||,|X3000|,|Name|,|New Castle, DE|,|County Government Administration|,
+|N090007488|,|S|,|N00032546|,|09|,|N|,|Pacur, LLC|,|Pacur LLC|,||,|M1500|,|Rept|,|Oshkosh, WI|,|Management Services|,|d|
+|N090007693|,|S|,|N00032546|,|09|,|A|,|Pacur, LLC|,|Pacur LLC|,||,|M1500|,|Rept|,|Oshkosh, WI|,|Management Services|,
+|N090007703|,|S|,|N00032762|,|09|,|N|,|Citigroup Global Markets, Inc.|,|Citigroup Global Markets, Inc.|,||,|Y0000|,||,|New York, NY|,|Legal services (litigation & settlement)|,
+|N090007704|,|S|,|N00032762|,|09|,|N|,|Verizon Services Corp.|,|Verizon Services|,||,|Y0000|,||,|Charleston, WV|,|Legal services (merge & regulatory process)|,
+|N090007705|,|S|,|N00032762|,|09|,|N|,|Saven Corp.|,|Saven Corp|,||,|Y0000|,||,|Charleston, WV|,|Legal services (Intellectual Property, gov't advise|,
+|N090007706|,|S|,|N00032762|,|09|,|N|,|Policy Studies, Inc.|,|Policy Studies Inc|,||,|H3000|,|WebDA|,|Denver, CO|,|Legal services (gov't relations)|,
+|N090007707|,|S|,|N00032762|,|09|,|N|,|Legacy Consulting|,|Legacy Consulting|,||,|Y0000|,||,|DeQueen, AR|,|Legal services (gov't relations)|,
+|N090007708|,|S|,|N00032762|,|09|,|N|,|WV Public Employees Insurance Agency|,|West Virginia Public Employ Insur Agency|,||,|Y0000|,||,|Charleston, WV|,|Legal services (litigation)|,
+|N090007709|,|S|,|N00032762|,|09|,|N|,|Joseph Wojcicki|,|Joseph Wojcicki|,||,|Y0000|,||,|Richmond, VA|,|Legal services (appellate litigation) (court-appointed appellate work - U.S. Ct of Appeals for the 4|,
+|N090007710|,|S|,|N00032762|,|09|,|N|,|Preferred Financial Solutions|,|Preferred Financial Solutions|,||,|Y0000|,||,|Indianapolis, IN|,|Legal services|,
+|N090007711|,|S|,|N00032762|,|09|,|N|,|National Strategy, LLC|,|National Strategy LLC|,||,|Y0000|,||,|Washington, DC|,|Legal services (gov't relations)|,
+|N090007712|,|S|,|N00032762|,|09|,|N|,|PhRMA|,|Pharmaceutical Rsrch & Mfrs of America|,||,|H4300|,|PAC|,|Washington, DC|,|Legal services (appellate litigation)|,
+|N090007713|,|S|,|N00032762|,|09|,|N|,|WV Judicial Ass'n|,|West Virginia Judicial Assn|,||,|Y0000|,||,|Charleston, WV|,|Legal services (appellate litigation)|,
+|N090007714|,|S|,|N00032762|,|09|,|N|,|West Va. Mutual Insurance Co.|,|West Virginia Mutual Insurance|,||,|F3100|,|Name|,|Charleston, WV|,|Legal services (litigation)|,
+|N090007715|,|S|,|N00032762|,|09|,|N|,|First Energy|,|First Energy|,||,|Y0000|,||,|Akron, OH|,|Legal Services (merger & regulatory process)|,
+|N090005379|,|S|,|N00003845|,|09|,|N|,|King & Spalding LLP|,|King & Spalding|,||,|K1200|,|PAC|,|Washington, DC|,|Legal services|,
+|N090005380|,|S|,|N00003845|,|09|,|N|,|Cerberus Capital Management|,|Cerberus Capital Management|,||,|F2600|,|Hvr07|,|New York, NY|,|Consultant|,
+|N090005381|,|S|,|N00003845|,|09|,|N|,|Bipartisan Policy Center Inc|,|Bipartisan Policy Center Inc|,||,|Y0000|,||,|Washington, DC|,|Consultant|,
+|N090005382|,|S|,|N00003845|,|09|,|N|,|Allison Transmission Inc|,|Allison Transmission|,||,|T2200|,|Hvr05|,|Indianapolis, IN|,|Board member|,
+|N090005383|,|S|,|N00003845|,|09|,|N|,|NanoInk, Inc.|,|NanoInk Inc|,||,|Y0000|,||,|Skokie, IL|,|Board member|,
+|N090005414|,|S|,|N00003845|,|09|,|N|,|King & Spalding LLP|,|King & Spalding|,||,|K1200|,|PAC|,|Washington, DC|,|Government Affairs Services|,
+|N090005415|,|S|,|N00003845|,|09|,|N|,|Cerberus Capital Management|,|Cerberus Capital Management|,||,|F2600|,|Hvr07|,|New York, NY|,|Consultant|,
+|N090005416|,|S|,|N00003845|,|09|,|N|,|Bipartisan Policy Center Inc|,|Bipartisan Policy Center Inc|,||,|Y0000|,||,|Washington, DC|,|Consultant|,
+|N090005417|,|S|,|N00003845|,|09|,|N|,|Allison Transmission Inc|,|Allison Transmission|,||,|T2200|,|Hvr05|,|Indianapolis, IN|,|Board member|,
+|N090005418|,|S|,|N00003845|,|09|,|N|,|NanoInk, Inc.|,|NanoInk Inc|,||,|Y0000|,||,|Skokie, IL|,|Board member|,
+|N090005419|,|S|,|N00003845|,|09|,|N|,|Cerberus Capital Management (client of King & Spalding)|,|Cerberus Capital Management|,||,|F2600|,|Hvr07|,|New York, NY|,|Government Affairs Services|,
+|N090005420|,|S|,|N00003845|,|09|,|N|,|Cooper Industries (client of King & Spalding)|,|Cooper Industries|,||,|M2300|,|PAC|,|Houston, TX|,|Government Affairs Services|,
+|N090005421|,|S|,|N00003845|,|09|,|N|,|Davita (client of King & Spalding)|,|DaVita Inc|,||,|Y0000|,||,|El Segundo, CA|,|Government Affairs Services|,
+|N090005422|,|S|,|N00003845|,|09|,|N|,|Festo Corporation (client of King & Spalding)|,|Festo Corp|,||,|Y0000|,||,|Hauppauge, NY|,|Government Affairs Services|,
+|N090005423|,|S|,|N00003845|,|09|,|N|,|Google, Inc (client of King & Spalding)|,|Google Inc|,||,|C5140|,|PAC|,|Washington, DC|,|Government Affairs Services|,
+|N090005424|,|S|,|N00003845|,|09|,|N|,|Harvest Natural Resources (client of King & Spalding)|,|Harvest Natural Resources|,||,|Y0000|,||,|Houston, TX|,|Government Affairs Services|,
+|N090005425|,|S|,|N00003845|,|09|,|N|,|JA Worldwide (Junior Achievement) (client of King & Spalding)|,|JA Worldwide|,||,|H5000|,|webTL|,|Colorado Springs, CO|,|Government Affairs Services|,
+|N090005426|,|S|,|N00003845|,|09|,|N|,|John Maneely Company (client of King & Spalding)|,|John Maneely Co|,||,|Y0000|,||,|Collingswood, NJ|,|Government Affairs Services|,
+|N090005427|,|S|,|N00003845|,|09|,|N|,|Lockheed Martin Corporation (client of King & Spalding)|,|Lockheed Martin|,||,|D2000|,|PAC|,|Bethesda, MD|,|Government Affairs Services|,
+|N090005428|,|S|,|N00003845|,|09|,|N|,|Mr. Julian H. Robertson (client of King & Spalding)|,|Julian H Robertson|,||,|Y0000|,||,|New York, NY|,|Government Affairs Services|,
+|N090005429|,|S|,|N00003845|,|09|,|N|,|Roche Diagnostics Corporation (client of King & Spalding)|,|Roche Diagnostics|,|Roche Holdings|,|H4300|,|Hvr06|,|Indianapolis, IN|,|Government Affairs Services|,
+|N090005430|,|S|,|N00003845|,|09|,|N|,|Sprint Nextel Corporation (client of King & Spalding)|,|Sprint Nextel|,||,|C4300|,|PAC|,|Reston, VA|,|Government Affairs Services|,
+|N090005431|,|S|,|N00003845|,|09|,|N|,|The Medicines Company (client of King & Spalding)|,|Medicines Co|,||,|H4300|,|PAC|,|Parsippany, NJ|,|Government Affairs Services|,
+|N090005432|,|S|,|N00003845|,|09|,|N|,|Towers Perrin Forster & Crosby Inc. (client of King & Spalding)|,|Towers, Perrin et al|,||,|Y0000|,||,|Stamford, CT|,|Government Affairs Services|,
+|N090006044|,|S|,|N00030612|,|09|,|N|,|Marin & Sons (client of Rubio Consulting and Marco Rubio, PA)|,|Marin & Sons|,||,|G5270|,|Hvr07|,|Miami, FL|,|Legal Services (Consulting services through Rubio Consulting)|,
+|N090006045|,|S|,|N00030612|,|09|,|N|,|Court Options (client of Fla Strategic Consulting and Marco Rubio., PA)|,|Court Options|,||,|Y0000|,||,|Miami, FL|,|Legal Services (Consulting / legal services through Fla Strategic Consulting)|,
+|N090006046|,|S|,|N00030612|,|09|,|N|,|Miami Childrens Hospital (client of Fla Strategic Consulting and M Rubio PA|,|Miami Childrens Hospital|,||,|Y0000|,||,|Miami, FL|,|Legal Services (Consulting / legal services through Fla Strategic Consulting)|,
+|N090006047|,|S|,|N00030612|,|09|,|N|,|Larkin Community Hospital (client of Marco Rubio, PA)|,|Larkin Community Hospital|,||,|H2100|,|Name|,|Miami, FL|,|Legal Services|,
+|N090006048|,|S|,|N00030612|,|09|,|N|,|Hypower Electric (client of Marco Rubio, PA)|,|Hypower Electric|,||,|Y0000|,||,|Miami, FL|,|Legal Services|,
+|N090006049|,|S|,|N00030612|,|09|,|N|,|Jackson Memorial Hospital (client of Florida Strategic Consulting)|,|Jackson Memorial Hospital|,||,|H2100|,|Name|,|Miami, FL|,|Legal and Consulting Services|,
+|N090006050|,|S|,|N00030612|,|09|,|N|,|Florida International University - Metro Ctr|,|Florida International University/Metro|,|Florida International University|,|Y0000|,||,|Miami, FL|,|Visiting Professor|,
+|N090006051|,|S|,|N00030612|,|09|,|N|,|Florida Strategic Consulting|,|Florida Strategic Consulting|,||,|Y0000|,||,|Miami, FL|,|Consulting and Legal Services|,
+|N090006052|,|S|,|N00030612|,|09|,|N|,|Broad & Cassel|,|Broad & Cassel|,||,|K1000|,|MH03|,|Miami, FL|,|Legal Services|,
+|C001566|,|S|,|N00004572|,|04|,|Y|,|First Federal Savings Bank|,|First Federal Savings Bank|,||,|F1200|,|Name|,|Storm Lake, IA|,|Board of Directors|,| |
+|C001567|,|S|,|N00004572|,|04|,|Y|,|First Midwest Financial|,|First Midwest Financial|,||,|F0000|,|Name|,|Storm Lake, IA|,|Board of Directors|,| |
+|C001568|,|S|,|N00004572|,|04|,|Y|,|Security State Bank|,|Security State Bank|,||,|F1000|,|Name|,|Stuart, IA|,|Board of Directors|,| |
+|C001569|,|S|,|N00004572|,|04|,|Y|,|DM&E Railroad|,|DM&E Railroad|,||,|T5100|,|Name|,|Sioux Falls, SD|,|Consultant (The Thune Group, LLC)|,| |
+|C001570|,|S|,|N00004572|,|04|,|Y|,|Beef Products Inc.|,|Beef Products Inc|,||,|G2300|,|Name|,|Dakota Dunes, SD|,|Consultant (The Thune Group, LLC)|,| |
+|C001571|,|S|,|N00004572|,|04|,|Y|,|Broin Companies|,|Broin Companies|,||,|Y0000|,||,|Sioux Falls, SD|,|Consultant (The Thune Group, LLC)|,| |
+|C001572|,|S|,|N00004572|,|04|,|Y|,|The Thune Group, LLC|,|Thune Group|,||,|Y0000|,||,|Sioux Falls, SD|,|President|,| |
+|H000722|,|S|,|N00026748|,|04|,|N|,|Akerman Senterfitt & Edison|,|Akerman, Senterfitt & Edison|,||,|Y0000|,||,|Orlando, FL|,|Legal Services|,| |
+|H000723|,|S|,|N00026748|,|04|,|N|,|La-Z-Boy Corporation|,|La-Z-Boy Corp|,||,|Y0000|,||,|Monroe, MI|,|Board of Director|,| |
+|H000802|,|S|,|N00026892|,|04|,|Y|,|State of Colorado|,|State of Colorado|,||,|X3000|,|Name|,|Denver, CO|,|Elected Attorney General|,| |
+|J003691|,|S|,|N00005601|,|04|,|Y|,|Thomas A Coburn, MD, Inc|,|Thomas A Coburn MD|,||,|H1100|,|Name|,|Muskogee, OK|,|Medical services|,| |
+|J003692|,|S|,|N00005601|,|04|,|Y|,|Muskogee Allergy Clinic Partnership|,|Muskogee Allergy Clinic|,||,|Y0000|,||,|Muskogee, OK|,|Medical services|,| |
+|N002011|,|E|,|N99999961|,|04|,|A|,|Kellogg Company|,|Kellogg Co|,||,|G2100|,|PAC|,|Battle Creek, MI|,|Chairman & CEO|,| |
+|N002012|,|E|,|N99999961|,|04|,|A|,|W.K. Kellogg Foundation Trust|,|WK Kellogg Foundation Trust|,||,|Y0000|,||,|Battle Creek, MI|,|Trustee|,| |
+|N002013|,|E|,|N99999961|,|04|,|A|,|Colgate-Palmolive|,|Colgate-Palmolive Co|,||,|H4200|,|WebTL|,|New York, NY|,|Director|,| |
+|N002068|,|E|,|N00029444|,|04|,|N|,|State of Nebraska|,|State of Nebraska|,||,|X3000|,|Name|,||,|Public Service as Governor|,| |
+|N002225|,|E|,|N99999975|,|04|,|N|,|Wellpoint, Inc. (formerly Anthem, Inc.)|,|Wellpoint Inc|,|Blue Cross/Blue Shield|,|H3700|,|PAC|,|Indianapolis, IN|,|Director|,| |
+|N002226|,|E|,|N99999975|,|04|,|N|,|E&A Industries, Inc.|,|E&A Industries|,|Car Brite|,|M1600|,|WebSW|,||,|Director|,| |
+|i003931|,|E|,|N00006283|,|05|,|N|,|State of Idaho|,|State of Idaho|,||,|X3000|,|Name|,||,|Services As Governor|,| |
+|J004059|,|E|,|N99999962|,|05|,|N|,|The Goldman Sachs Group, Inc.|,|Goldman Sachs|,||,|F2300|,|PAC|,|New York, NY|,|CEO Services|,| |
+|M000214|,|E|,|N99999963|,|05|,|N|,|University System of Maryland Foundation|,|University System of Maryland Foundation|,||,|Y0000|,||,|Adelphi, MD|,|President and CEO. Investment of endowment funds; support System fundraising efforts, etc.|,| |
+|M000215|,|E|,|N99999963|,|05|,|N|,|University of Maryland|,|University of Maryland                  |,||,|H5100|,|Name|,|College Park, MD|,|Professor, School of Public Policy|,| |
+|M000216|,|E|,|N99999963|,|05|,|N|,|Calpine Corporation|,|Calpine Corp|,||,|E1630|,|PAC|,|San Jose, CA|,|Corporate Board member, Chair, Nominating & Governance Cte.; Member, Compensation Cte.|,| |
+|M000217|,|E|,|N99999963|,|05|,|N|,|The Adams Express Company|,|Adams Express|,||,|F2100|,|WebDA|,|Baltimore, MD|,|Corporate Board member; Member, Audit and Retirement Benefits Committees|,| |
+|M000218|,|E|,|N99999963|,|05|,|N|,|Petroleum & Resources Corporation|,|Petroleum & Resources Corp|,||,|F2100|,|Hvr08|,|Baltimore, MD|,|Corporate Board member; Member, Audit and Retirement Benefits Committees|,| |
+|D060006012|,|S|,|N00027500|,|06|,|Y|,|Hennepin County|,|Hennepin County|,||,|X3000|,|Name|,|Minneapolis, MN|,|Chief legal officer for Hennepin County / elected prosecutor|,| |
+|D060008861|,|E|,|N99999958|,|06|,|N|,|Texas A&M University|,|Texas A&M University|,||,|H5100|,|Name|,|College Station, TX|,|President|,| |
+|D060008862|,|E|,|N99999958|,|06|,|N|,|Brinker International, Inc.|,|Brinker International|,||,|G2900|,|PAC|,|Dallas, TX|,|Director|,| |
+|D060008863|,|E|,|N99999958|,|06|,|N|,|Parker Drilling Company, Houston, TX/New Iberia, LA|,|Parker Drilling Co|,||,|Y0000|,||,|Houston, TX|,|Director|,| |
+|D060008864|,|E|,|N99999958|,|06|,|N|,|NACCO Industries, Inc.|,|NACCO Industries|,|Nacco Materials Handling Group|,|M2300|,|Hvr06|,|Cleveland, OH|,|Director|,| |
+|D060008865|,|E|,|N99999958|,|06|,|N|,|The Mitchell Group, Inc.|,|Mitchell Group|,||,|Y0000|,||,|Houston, TX|,|Consulting services|,| |
+|D060008866|,|E|,|N99999958|,|06|,|N|,|Fidelity Investments|,|Fidelity Investments|,|FMR Corp|,|F2100|,|PAC|,|Boston, MA|,|Chairman of Independent Board of Trustees|,| |
+|D060008873|,|E|,|N99999958|,|06|,|N|,|Fidelity Investments|,|Fidelity Investments|,|FMR Corp|,|F2100|,|PAC|,|Boston, MA|,|Trustee|,| |
+|D060008874|,|E|,|N99999958|,|06|,|N|,|National Pest Management Association|,|National Pest Management Assn|,||,|G5700|,|Name|,|Fairfax, VA|,|Speaking services|,| |
+|D060008875|,|E|,|N99999958|,|06|,|N|,|Mellon Financial|,|Mellon Financial|,||,|F1100|,|PAC|,|Pittsburgh, PA|,|Speaking services|,| |
+|D060008876|,|E|,|N99999958|,|06|,|N|,|Target Corporation|,|Target Corp|,||,|G4300|,|PAC|,|Minneapolis, MN|,|Speaking services|,| |
+|D060008877|,|E|,|N99999958|,|06|,|N|,|Van Kampen Investments|,|Van Kampen Investments|,||,|Y0000|,||,|Oakbrook Terrace, IL|,|Speaking services|,| |
+|D060008878|,|E|,|N99999958|,|06|,|N|,|Poisant International, LLC|,|Poisant International|,||,|Y0000|,||,|Ashburn, VA|,|Speaking services|,| |
+|D060008885|,|E|,|N99999958|,|06|,|N|,|Kansas Bankers Association|,|Kansas Bankers Assn|,|American Bankers Assn|,|F1100|,|PAC|,|Topeka, KS|,|Speaking services|,| |
+|D060008886|,|E|,|N99999958|,|06|,|N|,|Leon & Sylvia Panetta Institute for Public Policy|,|Leon & Sylvia Panetta Inst for Pub Pol|,||,|Y0000|,||,|Seaside, CA|,|Speaking services|,| |
+|D060008887|,|E|,|N99999958|,|06|,|N|,|AIM Investments|,|AIM Investments|,||,|Y0000|,||,|Houston, TX|,|Speaking services|,| |
+|D060008888|,|E|,|N99999958|,|06|,|N|,|Last Frontier Council/Boy Scouts of America|,|Last Frontier Council/Boy Scouts of Amer|,||,|Y0000|,||,|Oklahoma City, OK|,|Speaking services|,| |
+|D060008889|,|E|,|N99999958|,|06|,|N|,|AEI Speakers Bureau|,|AEI Speakers Bureau|,||,|Y0000|,||,|Boston, MA|,|Speaking services|,| |
+|D060008890|,|E|,|N99999958|,|06|,|N|,|Merrill Lynch & Co., Inc.|,|Merrill Lynch|,||,|F2100|,|PAC|,|New York, NY|,|Speaking services|,| |
+|D060008896|,|E|,|N99999958|,|06|,|N|,|Industrial Fabrics Association International|,|Industrial Fabrics Assn International|,||,|Y0000|,||,|Roseville, MN|,|Speaking services|,| |
+|D060008897|,|E|,|N99999958|,|06|,|N|,|Borton, Petrini & Conron, LLP|,|Borton, Petrini & Conron|,||,|K1000|,|WebLM|,|Bakersfield, CA|,|Speaking services|,| |
+|D060008898|,|E|,|N99999958|,|06|,|N|,|X.ecute|,|Xecute|,||,|Y0000|,||,||,|Speaking services|,| |
+|D060008899|,|E|,|N99999958|,|06|,|N|,|Association of Public Safety Communications|,|Association of Public Safety Communictns|,||,|Y0000|,||,|Daytona Beach, FL|,|Speaking services|,| |
+|D060008900|,|E|,|N99999958|,|06|,|N|,|National Speakers Bureau, Vancouver, BC, Canada|,|National Speakers Bureau/Vancouver|,||,|Y0000|,||,|Vancouver, BC|,|Speaking services|,| |
+|D060008901|,|E|,|N99999958|,|06|,|N|,|Entercom|,|Entercom|,||,|Y0000|,||,|Bala Cynwyd, PA|,|Speaking services|,| |
+|D060008902|,|E|,|N99999958|,|06|,|N|,|Merrill Lynch International|,|Merrill Lynch|,||,|F2100|,|PAC|,|New York, NY|,|Speaking services|,| |
+|D060008903|,|E|,|N99999958|,|06|,|N|,|National Petrochemical & Refiners Association|,|National Petrochemical & Refiners Assn|,||,|E1160|,|PAC|,|Washington, DC|,|Speaking services|,| |
+|D060008904|,|E|,|N99999958|,|06|,|N|,|The Fertilizer Institute|,|Fertilizer Institute|,||,|A4100|,|PAC|,|Washington, DC|,|Speaking services|,| |
+|D060008905|,|E|,|N99999958|,|06|,|N|,|Temple Inland|,|Temple-Inland|,||,|M7100|,|PAC|,|Austin, TX|,|Consulting|,| |
+|D060008906|,|E|,|N99999958|,|06|,|N|,|Securing America's Future Energy Foundation|,|Securing America's Future Energy Fndtn|,||,|Y0000|,||,|Washington, DC|,|Speaking services|,| |
+|D060009074|,|S|,|N00028058|,|06|,|Y|,|Paramount Picture Corporation (2006)|,|Paramount Pictures|,|Viacom Inc|,|C2400|,|Hvr06|,|Hollywood, CA|,|Screen writing residual|,| |
+|D060009075|,|S|,|N00028058|,|06|,|Y|,|Warner Brothers Pictures, Inc. (2005)|,|Warner Brothers Pictures|,|Time Warner|,|C2400|,|Name|,|Burbank, CA|,|Screen writing residual|,| |
+|D060009076|,|S|,|N00028058|,|06|,|Y|,|Trident Media Group, LLC (2005)|,|Trident Media|,||,|Y0000|,||,|New York, NY|,|Book royalties|,| |
+|D060009077|,|S|,|N00028058|,|06|,|Y|,|Paramount Picture Corporation (2004)|,|Paramount Pictures|,|Viacom Inc|,|C2400|,|Hvr06|,|Hollywood, CA|,|Screen writing residual|,| |
+|D060009078|,|S|,|N00028058|,|06|,|Y|,|Broadway Books (2004)|,|Broadway Books|,||,|Y0000|,||,|New York, NY|,|Final advance on book royalty|,| |
+|D060009079|,|S|,|N00028058|,|06|,|Y|,|Parade Magazine (2004-2006)|,|Parade Magazine|,||,|C1100|,|Name|,|New York, NY|,|Journalism|,| |
+|D060009080|,|S|,|N00028058|,|06|,|Y|,|Bantam Books|,|Bantam Books|,||,|Y0000|,||,|New York, NY|,|Book royalties|,| |
+|D060009081|,|S|,|N00028058|,|06|,|Y|,|Norstesdt Publisher|,|Norstesdt Publisher|,||,|Y0000|,||,|Sweden|,|Book royalties|,| |
+|D060009082|,|S|,|N00028058|,|06|,|Y|,|Edizionne|,|Edizionne|,||,|Y0000|,||,|Italy|,|Book royalties|,| |
+|D060009083|,|S|,|N00028058|,|06|,|Y|,|Orion UK|,|Orion UK|,||,|Y0000|,||,|London, England|,|Book royalties|,| |
+|G060004380|,|H|,|N00027510|,|06|,|Y|,|Berenbaum Weinshienk & Eason, PC|,|Berenbaum, Weinshienk & Eason|,||,|K1000|,|Rept|,|Denver, CO|,|Attorney|,| |
+|G060004763|,|E|,|N99999957|,|06|,|N|,|Leading Authorities, Inc. (list of speaking engagements attached - Attachment 1)|,|Leading Authorities Inc|,||,|Y0000|,||,|Washington, DC|,|Speeches|,| |
+|G060004764|,|E|,|N99999957|,|06|,|N|,|Quinn Gillespie & Associates LLC (list of clients attached - Attachment 2)|,|Quinn Gillespie & Assoc|,|WPP Group|,|K2000|,|WebDW|,|Washington, DC|,|Consulting services|,| |
+|C070004693|,|E|,|N99999953|,|07|,|N|,|Project HOPE|,|Project Hope|,||,|X4000|,|Web|,||,|Executive Vice President/Chief Operating Officer-management|,| |
+|C070004694|,|E|,|N99999953|,|07|,|N|,|QTC Mangement, Inc|,|QTC Management|,||,|H3000|,|webAC|,||,|Chief Medical Director/Chief Operating Officer-management|,| |
+|C070004695|,|E|,|N99999953|,|07|,|N|,|DefenseWeb Technologies, Inc|,|DefenseWeb Technologies|,||,|Y0000|,||,||,|Consultation as a Member, Board of Advisors|,| |
+|C070004696|,|E|,|N99999953|,|07|,|N|,|Faircount LLC|,|Faircount LLC|,||,|Y0000|,||,||,|Guest Editor-Authored article and reviewed content|,| |
+|C070004748|,|E|,|N99999954|,|07|,|N|,|Extend America|,|Extend America|,||,|Y0000|,||,|Bismarck, ND|,|CEO|,| |
+|C070004749|,|E|,|N99999954|,|07|,|N|,|Investors Real Estate Trust|,|Investors Real Estate Trust|,||,|F4100|,|SIC08|,|Minot, ND|,|Director|,| |
+|C070004750|,|E|,|N99999954|,|07|,|N|,|Extend America|,|Extend America|,||,|Y0000|,||,|Bismarck, ND|,|Consultant|,| |
+|H070000033|,|H|,|N00029018|,|07|,|N|,|Childrens Place and Connors Nursury, Inc|,|Children's Place & Conners Nursery|,||,|Y0000|,||,|West Palm Beach, FL|,|Chief Executive Officer|,| |
+|H070000147|,|H|,|N00000812|,|07|,|N|,|(Gluck Walrath LLP)Trenton, NJ Township of Pemberton|,|Gluck Walrath LLP|,||,|K1000|,|Rept|,|Pemberton, NJ|,|Legal Services|,| |
+|H070000148|,|H|,|N00000812|,|07|,|N|,|Port Authority of NY & NJ|,|Port Authority of NY & NJ Bond|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|H070000168|,|H|,|N00000898|,|07|,|N|,|State of NJ|,|State of New Jersey|,||,|X3000|,|Name|,|Trenton, NJ|,|State Senator|,| |
+|H070000520|,|S|,|N00024790|,|07|,|A|,|Harvard University|,|Harvard University|,||,|H5100|,|Name|,|Cambridge, MA|,|Salary - '06 - $171,135.61|,| |
+|H070000521|,|S|,|N00024790|,|07|,|A|,|Harvard University|,|Harvard University|,||,|H5100|,|Name|,|Cambridge, MA|,|Salary - '07 - $138,040|,| |
+|H070000522|,|S|,|N00024790|,|07|,|A|,|Fannie Mae Foundation|,|Fannie Mae Foundation|,|Fannie Mae|,|X4100|,|WebSK|,|Washington, DC|,|Speech - 11/9/06 - $5,000|,| |
+|H070000523|,|S|,|N00024790|,|07|,|A|,|Susquehanna University|,|Susquehanna University|,||,|H5100|,|name|,|Selinsgrove, PA|,|Speech - 5/31/07 - $10,000|,| |
+|H070000524|,|S|,|N00024790|,|07|,|A|,|Nellie Mae Education Foundation|,|Nellie Mae Education Foundation|,||,|X4100|,|Name|,|Braintree, MA|,|Retainer & Meetings - '06 - $23,000|,| |
+|H070000525|,|S|,|N00024790|,|07|,|A|,|Nellie Mae Education Foundation|,|Nellie Mae Education Foundation|,||,|X4100|,|Name|,|Braintree, MA|,|Retainer & Meetings - '07 - $13,000|,| |
+|H070001188|,|H|,|N00006288|,|07|,|N|,|SummerWinds Garden centers, Inc.|,|SummerWinds Garden Centers|,||,|A8000|,|Hvr11|,||,|Chairman & CEO|,| |
+|H070001189|,|H|,|N00006288|,|07|,|N|,|Primary Health|,|Primary Health|,||,|H0000|,|Name|,||,|Director|,| |
+|H070001290|,|H|,|N00027550|,|07|,|N|,|Strategic Insight Inc|,|Strategic Insight Inc|,||,|Y0000|,||,||,|Salary See Section I|,| |
+|H070001411|,|H|,|N00028418|,|07|,|N|,|IDT|,|IDT Corp|,||,|C4200|,|PAC|,|Newark, NJ|,|Services|,| |
+|H070001425|,|H|,|N00028463|,|07|,|N|,|State of Franklin Healthcare Associates|,|State of Franklin Healthcare Assoc|,||,|Y0000|,||,||,|Physician-medical practice|,| |
+|H070001465|,|H|,|N00000812|,|07|,|N|,|Lincoln Equities Group LLC|,|Lincoln Equities Group|,||,|F2100|,|Name|,|Rutherford, NY|,|Legal Services|,| |
+|H070001466|,|H|,|N00000812|,|07|,|N|,|Cooper Health System|,|Cooper Health System|,||,|H0000|,|Name|,|Camden, NJ|,|Legal Services|,| |
+|H070001467|,|H|,|N00000812|,|07|,|N|,|Develcom|,|Develcom|,||,|Y0000|,||,|Bellmawr, NJ|,|Legal Services|,| |
+|H070001468|,|H|,|N00000812|,|07|,|N|,|(David Greth, Connie Greth) Estate of Greth|,|Estate of Greth|,||,|Y0000|,||,|Virginia Beach, VA|,|Legal Services|,| |
+|H070001469|,|H|,|N00000812|,|07|,|N|,|Mervin Harrison|,|Mervin Harrison|,||,|Y0000|,||,|Philadelphia, PA|,|Legal Services|,| |
+|H070001470|,|H|,|N00000812|,|07|,|N|,|Heidi Messer/Stephen Messer|,|Heidi Messer/Stephen Messer|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|H070001471|,|H|,|N00000812|,|07|,|N|,|Roslyn Maurer|,|Roslyn Maurer|,||,|Y0000|,||,|Cherry Hill, NJ|,|Legal Services|,| |
+|H070001472|,|H|,|N00000812|,|07|,|N|,|Amanda Giovanni|,|Amanda Giovanni|,||,|Y0000|,||,|Alexandria, VA|,|Legal Services|,| |
+|H070001473|,|H|,|N00000812|,|07|,|N|,|Kira Pac|,|Kira Pac|,||,|Y0000|,||,|Miami, FL|,|Legal Services|,| |
+|H070001474|,|H|,|N00000812|,|07|,|N|,|American Apparel, Inc|,|American Apparel Inc|,||,|Y0000|,||,|Selma, AL|,|Legal Services|,| |
+|H070001475|,|H|,|N00029018|,|07|,|N|,|Kramer, Sopko & Levenstein, P.A.|,|Kramer, Sopko & Levenstein|,||,|K1000|,|Rept|,|Stuart, FL|,|Associate Attorney|,| |
+|H070001476|,|H|,|N00029127|,|07|,|N|,|BridgeHealth International, Inc|,|BridgeHealth International|,||,|H0000|,|Name|,||,|Consulting Services|,| |
+|H070001477|,|H|,|N00029127|,|07|,|N|,|Aquacopia Capital Management LLC|,|Aquacopia Capital Management|,||,|Y0000|,||,||,|Consulting Services|,| |
+|H070001973|,|H|,|N00029127|,|07|,|N|,|SPS Studios Inc.|,|SPS Studios|,||,|C1400|,|Hvr04|,|San Diego, CA|,|Vice President, Marketing|,| |
+|H070002289|,|H|,|N00029127|,|07|,|N|,|Jove Parners, LP,|,|Jove Partners|,||,|Y0000|,||,|New York, NY|,|Manager special member under Jovian Management Co Holdings, LLC|,| |
+|H070002290|,|H|,|N00029127|,|07|,|N|,|Confluence Commons, Inc.|,|Confluence Commons|,||,|C5140|,|Rept|,|Boulder, CO|,|Landlord and Administrative Services|,| |
+|H070002291|,|H|,|N00029127|,|07|,|N|,|Pancill LLC|,|Pancil LLC|,||,|Y0000|,||,|Boulder, CO|,|Landlord|,| |
+|H070002292|,|H|,|N00029127|,|07|,|N|,|Coloradans for Fairness & Equality|,|Coloradans for Fairness & Equality|,||,|Y0000|,||,|Boulder, CO|,|Landlord|,| |
+|H070002293|,|H|,|N00029127|,|07|,|N|,|Jovian P4 LLC|,|Jovian P4 LLC|,||,|Y0000|,||,|Boulder, CO|,|Landlord|,| |
+|H070002294|,|H|,|N00029127|,|07|,|N|,|Sonora Holdings Corp|,|Sonora Holdings|,||,|C2700|,|Rept|,||,|Administrative Services|,| |
+|H070002295|,|H|,|N00029127|,|07|,|N|,|Friends of Jared Polis Committee|,|Friends of Jared Polis Campaign Cmte|,||,|Y0000|,||,||,|Landlord|,| |
+|H070003125|,|H|,|N00029632|,|07|,|N|,|Trustmark National Bank|,|Trustmark National Bank|,||,|F1100|,|Name|,|Jackson, MS|,|Legal Services|,| |
+|H070003257|,|H|,|N00029784|,|07|,|N|,|Strategz Assessments|,|Strategz Assessments|,||,|Y0000|,||,|Consulting Services|,||,| |
+|H070003300|,|H|,|N00029788|,|07|,|N|,|State of Wyoming|,|State of Wyoming|,||,|X3000|,|Name|,|Cheyenne, WY|,|salary as Wyoming State Treasurer|,| |
+|H070003301|,|H|,|N00029632|,|07|,|N|,|Mississippi Baptist Children's Village|,|Mississippi Baptist Children's Village|,||,|Y0000|,||,||,|Legal Services|,| |
+|H070003589|,|H|,|N00030071|,|07|,|N|,|Montecucco Farms,2525 N Bake|,|Montecucco Farms|,||,|Y0000|,||,|Canby, OR|,|Land Rental|,| |
+|H070004001|,|H|,|N00030198|,|07|,|N|,|International Motion Control Inc.Mfg.|,|International Motion Control Inc|,||,|Y0000|,||,|Buffalo, NY|,|Company Executive|,| |
+|A080045839|,|E|,|N00028933|,|08|,|N|,|Harvard University|,|Harvard University|,||,|H5100|,|Name|,|Boston, MA|,|Fellow|,| |
+|A080045840|,|E|,|N00028933|,|08|,|N|,|Panetta Institute|,|Panetta Institute|,||,|Y0000|,||,|Seaside, CA|,|Speaking engagement in 2007|,| |
+|A080045827|,|E|,|N00028933|,|08|,|N|,|MidAmerican Energy|,|MidAmerican Energy|,|Berkshire Hathaway|,|E1620|,|PAC|,|Des Moines, IA|,|Consulted on renewable energy|,| |
+|A080045828|,|E|,|N00028933|,|08|,|N|,|National Education Association|,|National Education Assn|,||,|L1300|,|PAC|,|Washington, DC|,|Consulted on No Child Left Behind|,| |
+|A080045829|,|E|,|N00028933|,|08|,|N|,|Ambassadors, Inc|,|Ambassadors Inc|,||,|Y0000|,||,|Newport Beach, CA|,|Consulted on convention planning|,| |
+|A080045830|,|E|,|N00028933|,|08|,|N|,|Drake University Law School|,|Drake University Law School|,|Drake University|,|H5170|,|Name|,|Des Moines, IA|,|Teacher|,| |
+|A080045831|,|E|,|N00028933|,|08|,|N|,|Dorsey & Whitney LLP|,|Dorsey & Whitney|,||,|K1000|,|PAC|,|Des Moines, IA|,|Legal services|,| |
+|A080045832|,|E|,|N00028933|,|08|,|N|,|Iowa State University|,|Iowa State University|,||,|H5100|,|Name|,|Ames, IA|,|Teaching salary - Fellowship|,| |
+|A080045837|,|E|,|N00028933|,|08|,|N|,|Strategic Partnership LLC|,|Strategic Partnership LLC|,||,|Y0000|,||,|Alexandria, VA|,|Director|,| |
+|A080045838|,|E|,|N00028933|,|08|,|N|,|Carnegie Learning Company|,|Carnegie Learning Co|,||,|Y0000|,||,|Pittsburgh, PA|,|Director|,| |
+|A080045841|,|E|,|N00028933|,|08|,|N|,|Alleghney County Medical Society|,|Allegheny County Medical Society|,||,|H1100|,|Name|,|Pittsburgh, PA|,|Speaking engagement in 2007|,| |
+|A080045842|,|E|,|N00028933|,|08|,|N|,|Allergan|,|Allergan Inc|,||,|H4300|,|PAC|,|Irvine, CA|,|Consulting|,| |
+|A080045843|,|E|,|N00028933|,|08|,|N|,|Northwest Area Foundation|,|Northwest Area Foundation|,||,|Y0000|,||,|St Paul, MN|,|Speaking engagement in 2008|,| |
+|A080045844|,|E|,|N00028933|,|08|,|N|,|Iowa Pharmacy Association|,|Iowa Pharmacy Assn|,||,|Y0000|,||,|Des Moines, IA|,|Speaking engagement in 2008|,| |
+|A080045845|,|E|,|N00028933|,|08|,|N|,|Gordian Group|,|Gordian Group|,||,|F5000|,|PB02|,|Mauldin, SC|,|Legal fees|,| |
+|A080045846|,|E|,|N00028933|,|08|,|N|,|Independent Light and Power|,|Independent Light & Power|,||,|Y0000|,||,|Independence, IA|,|Legal fees|,| |
+|A080045847|,|E|,|N00028933|,|08|,|N|,|Kevin MacInness|,|Kevin MacInness|,||,|Y0000|,||,|Boulder, CO|,|Legal fees|,| |
+|A080045848|,|E|,|N00028933|,|08|,|N|,|Brett MacInness|,|Brett MacInness|,||,|Y0000|,||,|Dallas, TX|,|Legal fees|,| |
+|A080045849|,|E|,|N00028933|,|08|,|N|,|Macalester College|,|Macalester College|,||,|H5100|,|Name|,|St Paul, MN|,|Speaking engagement in 2008|,| |
+|A080046125|,|E|,|N99999939|,|08|,|N|,|Chicago Public Schools|,|Chicago Public Schools|,||,|X3500|,|Name|,|Chicago, IL|,|CEO Services|,| |
+|A080046165|,|E|,|N99999940|,|08|,|N|,|New York City Dept. of Housing Preservation and Development|,|New York City Dept of Housing Preservatn|,||,|Y0000|,||,||,|Commissioner of the Department|,| |
+|A080046211|,|E|,|N99999941|,|08|,|N|,|Federal Reserve Bank of New York|,|Federal Reserve Bank of New York|,||,|Y0000|,||,||,|President and CEO services|,| |
+|A080046258|,|E|,|N99999942|,|08|,|N|,|Covington & Burling LLP|,|Covington & Burling|,||,|K1000|,|Hvr07|,||,|Legal services|,| |
+|A080046259|,|E|,|N99999942|,|08|,|N|,|Abbott Laboratories|,|Abbott Laboratories|,||,|H4300|,|PAC|,||,|Legal services|,| |
+|A080046260|,|E|,|N99999942|,|08|,|N|,|Bank of America|,|Bank of America|,||,|F1100|,|PAC|,||,|Legal services|,| |
+|A080046261|,|E|,|N99999942|,|08|,|N|,|Chiquita Brands International, Inc.|,|Chiquita Brands International|,||,|A1400|,|Hvr02|,||,|Legal services|,| |
+|A080046262|,|E|,|N99999942|,|08|,|N|,|Entertainment Software Rating Board|,|Entertainment Software Rating Board|,||,|C5120|,|Name|,||,|Legal services|,| |
+|A080046263|,|E|,|N99999942|,|08|,|N|,|Hewlett Packard Co. Special Litigation Committee|,|Hewlett-Packard|,||,|C5100|,|PAC|,||,|Legal services|,| |
+|A080046268|,|E|,|N99999942|,|08|,|N|,|Humana Inc.|,|Humana Inc|,||,|H3700|,|PAC|,||,|Legal services|,| |
+|A080046269|,|E|,|N99999942|,|08|,|N|,|Merck & Co.|,|Merck & Co|,||,|H4300|,|PAC|,||,|Legal services|,| |
+|A080046270|,|E|,|N99999942|,|08|,|N|,|Merck/Schering-Plough Pharmaceuticals|,|Schering-Plough Corp|,||,|H4300|,|PAC|,||,|Legal services|,| |
+|A080046271|,|E|,|N99999942|,|08|,|N|,|National Football League|,|National Football League|,||,|G6400|,|PAC|,||,|Legal services|,| |
+|A080046272|,|E|,|N99999942|,|08|,|N|,|Pfizer, Inc.|,|Pfizer Inc|,||,|H4300|,|PAC|,||,|Legal services|,| |
+|A080046273|,|E|,|N99999942|,|08|,|N|,|Public Services Enterprise Group Incorporated|,|Public Service Enterprise Group|,||,|E1620|,|PAC|,||,|Legal services|,| |
+|A080046274|,|E|,|N99999942|,|08|,|N|,|The National Geographic Society|,|National Geographic Society|,||,|C1100|,|Name|,||,|Legal services|,| |
+|A080046275|,|E|,|N99999942|,|08|,|N|,|UBS Financial Services Inc.|,|UBS Financial Services|,|UBS AG|,|F2100|,|WebSK|,||,|Legal services|,| |
+|A080046276|,|E|,|N99999942|,|08|,|N|,|Yahoo Corporation|,|Yahoo! Inc|,||,|C5140|,|PAC|,||,|Legal services|,| |
+|A080046323|,|E|,|N99999943|,|08|,|N|,|State of New Jersey|,|State of New Jersey|,||,|X3000|,|Name|,||,|State Government services|,| |
+|A080046358|,|E|,|N99999944|,|08|,|N|,|State of Arizona|,|State of Arizona|,||,|X3000|,|Name|,||,|Salary set by statute for Governor of the State of Arizona|,| |
+|A080046489|,|E|,|N99999945|,|08|,|N|,|Pegasus Associates, Inc.|,|Pegasus Assoc|,||,|G5200|,|Rept|,|Falls Church, VA|,|Management/Sole Employee|,| |
+|A080046490|,|E|,|N99999945|,|08|,|N|,|Honeywell International|,|Honeywell International|,||,|M2300|,|PAC|,|Morristown, NJ|,|Board of Directors|,| |
+|A080046491|,|E|,|N99999945|,|08|,|N|,|Guardian Life Insurance Company of America|,|Guardian Life Insurance Co of America|,||,|Y0000|,||,|New York, NY|,|Board of Directors|,| |
+|A080046492|,|E|,|N99999945|,|08|,|N|,|Ducommun, Inc.|,|Ducommun Inc|,||,|Y0000|,||,|Carson, CA|,|Board of Directors|,| |
+|A080046493|,|E|,|N99999945|,|08|,|N|,|First Hawaiian Bank|,|First Hawaiian Bank|,|BNP Paribas|,|F1100|,|PAC|,|Honolulu, HI|,|Board of Directors|,| |
+|A080046494|,|E|,|N99999945|,|08|,|N|,|Grove Farm Company, Inc.|,|Grove Farm|,||,|Y0000|,||,|Lihue, HI|,|Board of Directors|,| |
+|A080046501|,|E|,|N99999945|,|08|,|N|,|Haili Moe, Inc.|,|Haili Moe Inc|,||,|Y0000|,||,|Lihue, HI|,|Board of Directors|,| |
+|A080046502|,|E|,|N99999945|,|08|,|N|,|DC Capital Partners, LLC|,|Dc Capital Partners|,||,|F0000|,|Name|,|Washington, DC|,|Member, Board of Advisors|,| |
+|A080046503|,|E|,|N99999945|,|08|,|N|,|National Interest Security Co, LLC|,|National Interest Security Co|,|DC Capital Partners|,|D9000|,|PAC|,|Fairfax, VA|,|Member, Board of Managers|,| |
+|A080046504|,|E|,|N99999945|,|08|,|N|,|Kaseman, LLC|,|Kaseman LLC|,||,|Y0000|,||,|Chantilly, VA|,|Member, Board of Managers|,| |
+|A080046505|,|E|,|N99999945|,|08|,|N|,|Cubic Defense Analysis (Through Pegasus)|,|Cubic Defense Analysis|,||,|Y0000|,||,|San Diego, CA|,|Consultant|,| |
+|A080046506|,|E|,|N99999945|,|08|,|N|,|Boeing Co. (Through Pegasus)|,|Boeing Co|,||,|D2000|,|PAC|,|Arlington, VA|,|Consultant|,| |
+|A080046513|,|E|,|N99999945|,|08|,|N|,|EDS (Through Pegasus)|,|EDS Corp|,|Hewlett-Packard|,|C5130|,|PAC|,|Plano, TX|,|Defense Advisory Council|,| |
+|A080046514|,|E|,|N99999945|,|08|,|N|,|United States Military Academy, Association of Graduates|,|US Military Academy Assn of Graduates|,||,|Y0000|,||,|West Point, NY|,|Visiting Professor 09/05-04/07|,| |
+|A080046515|,|E|,|N99999945|,|08|,|N|,|Haverford School|,|Haverford School|,||,|H5100|,|Name|,|Haverford, PA|,|Guest Speaker 4/07 Funds donated to Go For Broke National Education Center|,| |
+|A080046632|,|E|,|N99999946|,|08|,|N|,|Financial Industry Regulatory Authority|,|Financial Industry Regulatory Authority|,||,|F2000|,|WebSM|,|Washington, DC|,|Management|,| |
+|A080046633|,|E|,|N99999946|,|08|,|N|,|Kraft Foods Inc|,|Kraft Foods|,||,|G2100|,|PAC|,|Northfield, IL|,|Public director|,| |
+|A080046634|,|E|,|N99999946|,|08|,|N|,|Duke Energy Corp|,|Duke Energy|,||,|E1620|,|PAC|,|Charlotte, NC|,|Public director|,| |
+|A080046679|,|E|,|N99999947|,|08|,|N|,|The Brookings Institution|,|Brookings Institution|,||,|X4000|,|SK|,|Washington, DC|,|Senior Fellow|,| |
+|A080046680|,|E|,|N99999947|,|08|,|N|,|Georgetown University|,|Georgetown University|,||,|H5100|,|Name|,|Washington, DC|,|Research Professor|,| |
+|A080046681|,|E|,|N99999947|,|08|,|N|,|FTI Consulting, Inc.|,|Fti Consulting|,||,|G5200|,|Hvr07|,|Washington, DC|,|Consulting Services|,| |
+|A080046682|,|E|,|N99999947|,|08|,|N|,|Alcoa Inc.|,|Alcoa Inc|,||,|M2250|,|Hvr07|,|Pittsburgh, PA|,|Speaking fees|,| |
+|A080046683|,|E|,|N99999947|,|08|,|N|,|Korean Development Institute|,|Korean Development Institute|,||,|Y0000|,||,|Seoul, South Korea|,|Speaking honorarium|,| |
+|A080046762|,|E|,|N99999948|,|08|,|N|,|Moore Foundation|,|Moore Foundation|,||,|Y0000|,||,|San Francisco, CA|,|Science Advisory Board Member|,| |
+|A080046763|,|E|,|N99999948|,|08|,|N|,|Foundation Premios Rey Jaime I|,|Foundation Premios Rey Jaime|,||,|Y0000|,||,|Valencia, Spain|,|Judge for Rey Jaime I Prize|,| |
+|A080046764|,|E|,|N99999948|,|08|,|N|,|Kyungwon University, Korea|,|Kyungwon University, Korea|,||,|Y0000|,||,||,|Honorarium and one time consulting service|,| |
+|A080046765|,|E|,|N99999948|,|08|,|N|,|Duke University|,|Duke University|,||,|H5100|,|Name|,|Durham, NC|,|Honorarium|,| |
+|A080046766|,|E|,|N99999948|,|08|,|N|,|Yale University|,|Yale University|,||,|H5100|,|Name|,|New Have, CT|,|Honorarium|,| |
+|A080046767|,|E|,|N99999948|,|08|,|N|,|Metanexus|,|Metanexus|,||,|Y0000|,||,|Bryn Mawr, PA|,|Manuscript for Townes 90th Birthday Symposium|,| |
+|A080046774|,|E|,|N99999948|,|08|,|N|,|University of California|,|University of California|,||,|H5100|,|Name|,|Oakland, CA|,|Professor at University of California, Berkeley and Director of Lawrence Berkeley National Laborator|,| |
+|A080046775|,|E|,|N99999948|,|08|,|N|,|Chinese University Hong Kong|,|Chinese University Hong Kong|,||,|Y0000|,||,||,|Lecturer|,| |
+|A080047138|,|E|,|N00001669|,|08|,|N|,|Random House Publishers|,|Random House Publishing|,||,|Y0000|,||,|New York, NY|,|Audio Book Advance "Promises To Keep"|,| |
+|A080047139|,|E|,|N00001669|,|08|,|N|,|Widener University|,|WIDENER UNIVERSITY|,||,|H5100|,|Name|,|Chester, PA|,|Teaching Stipend|,| |
+|A080075578|,|S|,|N00015389|,|08|,|N|,|Metropolitan Chicago Healthcare Council|,|Metropolitan Chicago Healthcare Council|,||,|H2100|,|Web|,|Chicago, IL|,|Consulting|,| |
+|A080075579|,|S|,|N00015389|,|08|,|N|,|ACS Healthcare Solutions|,|ACS Healthcare Solutions|,||,|Y0000|,||,|Chicago, IL|,|Consulting|,| |
+|A080075580|,|S|,|N00015389|,|08|,|N|,|Advocate Healthcare Systems|,|Advocate Healthcare Systems|,||,|Y0000|,||,|Oakbrook, IL|,|Consulting|,| |
+|A080075581|,|S|,|N00015389|,|08|,|N|,|Illinois Funeral Director's Association|,|Illinois Funeral Director's Assn|,||,|Y0000|,||,|Springfield, IL|,|Consulting|,| |
+|A080075582|,|S|,|N00015389|,|08|,|N|,|Village of Wheeling|,|Village of Wheeling|,||,|Y0000|,||,|Wheeling, IL|,|Consulting|,| |
+|A080075583|,|S|,|N00015389|,|08|,|N|,|Victory Gardens|,|Victory Gardens|,||,|Y0000|,||,|Chicago, IL|,|Consulting|,| |
+|A080075584|,|S|,|N00015389|,|08|,|N|,|Comcast|,|Comcast Corp|,||,|C2200|,|PAC|,|Chicago, IL|,|Consulting|,| |
+|N090006053|,|S|,|N00030612|,|09|,|N|,|State of Florida|,|State of Florida|,||,|X3000|,|Name|,|Tallahassee, FL|,|State Government / Legislator|,
+|N090006054|,|S|,|N00030612|,|09|,|N|,|Univision Network (client of Rubio Consulting)|,|Univision Network|,||,|Y0000|,||,|Miami, FL|,|On-air Political Analysis|,
+|N090006055|,|S|,|N00030612|,|09|,|N|,|Marco Rubio, PA|,|Marco Rubio PA|,||,|K1000|,|WebDA|,|Miami, FL|,|Legal Services|,
+|N090006056|,|S|,|N00030612|,|09|,|N|,|Rubio Consulting|,|Rubio Consulting|,||,|Y0000|,||,|Miami, FL|,|Legal and Consulting Services|,
+|N090006057|,|S|,|N00030612|,|09|,|N|,|MGI Hotels (client of M Rubio, PA)|,|MGI Hotels|,||,|Y0000|,||,|Miami, FL|,|Legal Services|,
+|N090006085|,|S|,|N00030612|,|09|,|A|,|Marin & Sons (client of Rubio Consulting & M Rubio, PA)|,|Marin & Sons|,||,|G5270|,|Hvr07|,|Miami, FL|,|Legal and Consulting|,
+|j080094963|,|E|,|N99999933|,|08|,|N|,|Vinson & Elkins, LLP|,|Vinson & Elkins, LLP|,||,|Y0000|,||,|Dallas, TX|,|Partner Compensation|,
+|j080094964|,|E|,|N99999933|,|08|,|N|,|Brinker International|,|Brinker International|,||,|G2900|,|PAC|,||,|Director Compensation|,
+|j080094965|,|E|,|N99999933|,|08|,|N|,|Dean Foods Inc.|,|Dean Foods Inc|,||,|Y0000|,||,||,|Director Compensation|,
+|j080094966|,|E|,|N99999933|,|08|,|N|,|PetSmart Inc.|,|Petsmart Inc|,||,|G4600|,|Name|,||,|Director Compensation|,
+|j080094967|,|E|,|N99999933|,|08|,|N|,|TXU Corp.|,|TXU Corp|,||,|Y0000|,||,||,|Legal Services|,
+|j080094968|,|E|,|N99999933|,|08|,|N|,|Merrill Lynch & Comp.|,|Merrill Lynch & Comp|,||,|Y0000|,||,||,|Legal Services|,
+|j080094980|,|E|,|N99999933|,|08|,|N|,|Energy Future Holdings Corp.|,|Energy Future Holdings Corp|,||,|E1600|,|PAC|,||,|Legal Services|,
+|j080094981|,|E|,|N99999933|,|08|,|N|,|Wall Mart|,|Wall Mart|,||,|Y0000|,||,||,|Legal Services|,
+|j080094982|,|E|,|N99999933|,|08|,|N|,|ACS State and Local Solutions, Inc|,|ACS State & Local Solutions Inc|,||,|Y0000|,||,||,|Legal Services|,
+|j080094983|,|E|,|N99999933|,|08|,|N|,|Mesa Water|,|Mesa Water|,||,|Y0000|,||,||,|Legal Services|,
+|j080094984|,|E|,|N99999933|,|08|,|N|,|Kohlberg Kravis Roberts & Co.|,|Kohlberg Kravis Roberts & Co|,||,|F2600|,|WebSP|,||,|Legal Services|,
+|j080094985|,|E|,|N99999933|,|08|,|N|,|COMPETE Coalition|,|COMPETE Coalition|,||,|Y0000|,||,||,|Legal Services|,
+|j080094986|,|E|,|N99999933|,|08|,|N|,|Fischer & Co.|,|Fischer & Co|,||,|F4000|,|Rept|,||,|Legal Services|,
+|j080094987|,|E|,|N99999933|,|08|,|N|,|Pharos Capital Group LLC|,|Pharos Capital Group LLC|,||,|Y0000|,||,||,|Legal Services|,
+|j080094988|,|E|,|N99999933|,|08|,|N|,|Converge Inc.|,|Converge Inc|,||,|Y0000|,||,||,|Legal Services|,
+|j080095225|,|E|,|N99999934|,|08|,|N|,|Davis Wright Tremaine LLP|,|Davis Wright Tremaine LLP|,||,|K1000|,|PAC|,|Seattle, WA|,|Legal Services, Non-Equity Partner|,
+|j080095226|,|E|,|N99999934|,|08|,|N|,|Safeco Insurance Company|,|Safeco Insurance Company|,||,|Y0000|,||,|Seattle, WA|,|Director's Fees|,
+|j080095227|,|E|,|N99999934|,|08|,|N|,|Key Technology|,|Key Technology|,||,|Y0000|,||,|Walla Walla, WA|,|Director's Fees|,
+|j080095228|,|E|,|N99999934|,|08|,|N|,|National Electronic Commerce|,|National Electronic Commerce|,||,|Y0000|,||,|Sacramento, CA|,|Speech Honorarium|,
+|j080095229|,|E|,|N99999934|,|08|,|N|,|Waggener Edstrom Public Affairs|,|Waggener Edstrom Public Affairs|,||,|Y0000|,||,|Bellevue, WA|,|Consulting|,
+|j080095230|,|E|,|N99999934|,|08|,|N|,|Airbiquity|,|Airbiquity|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|j080095237|,|E|,|N99999934|,|08|,|N|,|American Pacific International Capital|,|American Pacific International Capital|,||,|Y0000|,||,|Portland, OR|,|Legal Services|,
+|j080095238|,|E|,|N99999934|,|08|,|N|,|American Piledriving Equipment|,|American Piledriving Equipment|,||,|Y0000|,||,|Kent, WA|,|Legal Services|,
+|j080095239|,|E|,|N99999934|,|08|,|N|,|Centeur International LLC|,|Centeur International LLC|,||,|Y0000|,||,|Lake Oswego, OR|,|Legal Services|,
+|j080095240|,|E|,|N99999934|,|08|,|N|,|Festival Media|,|Festival Media|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|j080095241|,|E|,|N99999934|,|08|,|N|,|Microsoft|,|Microsoft Corp|,||,|C5120|,|PAC|,|Redmond, WA|,|Legal Services|,
+|j080095242|,|E|,|N99999934|,|08|,|N|,|Pacific Prestige|,|Pacific Prestige|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|j080095247|,|E|,|N99999934|,|08|,|N|,|Public Insight|,|Public Insight|,||,|Y0000|,||,|Los Angeles, CA|,|Legal Services|,
+|j080095248|,|E|,|N99999934|,|08|,|N|,|Russell Investment Group|,|Russell Investment Group|,|Northwestern Mutual|,|F2100|,|PAC|,|Tacoma, WA|,|Legal Services|,
+|j080095249|,|E|,|N99999934|,|08|,|N|,|Verdiem Corp.|,|Verdiem Corp|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|j080095250|,|E|,|N99999934|,|08|,|N|,|Washington Harbor Management Group|,|Washington Harbor Management Group|,||,|Y0000|,||,|Belevue, WA|,|Legal Services|,
+|j080095251|,|E|,|N99999934|,|08|,|N|,|Western Pension Benefits Conference|,|Western Pension Benefits Conference|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|j080095252|,|E|,|N99999934|,|08|,|N|,|Weyerhauser Real Estate Development|,|Weyerhauser Real Estate Development|,||,|Y0000|,||,|Federal Way, WA|,|Legal Services|,
+|j080095253|,|E|,|N99999934|,|08|,|N|,|WPM LLC|,|WPM LLC|,||,|Y0000|,||,|Lynnwood, WA|,|Legal Services|,
+|j080095254|,|E|,|N99999934|,|08|,|N|,|Gerson Lehrman Group|,|Gerson Lehrman Group|,||,|F2100|,|PAC|,|New York, NY|,|Legal Services|,
+|j080095255|,|E|,|N99999934|,|08|,|N|,|Hainan Airlines|,|Hainan Airlines|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|j080095256|,|E|,|N99999934|,|08|,|N|,|Okaya, USA|,|Okaya, USA|,||,|Y0000|,||,|Seattle, WA|,|Legal Services|,
+|A100136470|,|S|,|N00030836|,|10|,|Y|,|Center Street|,|Center Street|,||,|Y0000|,||,|N|,|author|,
+|A100136471|,|S|,|N00030836|,|10|,|Y|,|Alchemy LLC|,|Alchemy LLC|,||,|Y0000|,||,|B|,|rental income|,
+|A100136942|,|S|,|N00032838|,|10|,|Y|,|State of West Virginia|,|State of West Virginia|,||,|X3000|,|Name|,|C|,|Governor|,
+|D120100441|,|S|,|N00035267|,|12|,|N|,|Association of Perioperative Nurses (2012)|,|Association of Perioperative Nurses|,||,|Y0000|,||,||,|Speaker|,
+|D120100442|,|S|,|N00035267|,|12|,|N|,|George Washington University (2012)|,|George Washington University|,||,|Y0000|,||,||,|Speaker|,
+|D120100443|,|S|,|N00035267|,|12|,|N|,|Jackson State University (2012)|,|Jackson State University|,||,|Y0000|,||,||,|Speaker|,
+|D120100444|,|S|,|N00035267|,|12|,|N|,|Ohio State University (2012)|,|Ohio State University|,||,|Y0000|,||,||,|Speaker|,
+|D120100445|,|S|,|N00035267|,|12|,|N|,|Jewish United Fund (2012)|,|Jewish United Fund|,||,|Y0000|,||,||,|Speaker|,
+|D120100446|,|S|,|N00035267|,|12|,|N|,|City of Newark|,|City of Newark, NJ|,||,|Y0000|,||,||,|Mayor|,
+|A120001057|,|E|,|N00005301|,|12|,|N|,|Georgetown University|,|Georgetown University|,||,||,||,||,|Professor|,
+|O090016000|,|E|,|N99999913|,|10|,|N|,|AKPD Message and Media LLC|,|AKPD Message and Media LLC|,||,|Y0000|,||,|C|,|Consulting Services|,
+|O090016001|,|E|,|N99999913|,|10|,|N|,|Plouffe Strategies LTD|,|Plouffe Strategies|,||,|Y0000|,||,|W|,|Consulting Services / Speaking|,
+|O090016002|,|E|,|N99999913|,|10|,|N|,|The Boeing Company|,|Boeing Co|,||,|D2000|,|PAC|,|A|,|Consulting Services|,
+|O090016003|,|E|,|N99999913|,|10|,|N|,|General Electric|,|General Electric|,||,|M2300|,|PAC|,|F|,|Consulting Services|,
+|O090016004|,|E|,|N99999913|,|10|,|N|,|Richmond Events|,|Richmond Events|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016008|,|E|,|N99999913|,|10|,|N|,|Central European Business Center|,|Central European Business Center|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016009|,|E|,|N99999913|,|10|,|N|,|Ginger RCA|,|Ginger RCA|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016010|,|E|,|N99999913|,|10|,|N|,|Medicaid Healthplans of America|,|Medicaid Healthplans of America|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016011|,|E|,|N99999913|,|10|,|N|,|National Association for Variable Annuities|,|National Assn for Variable Annuities|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016012|,|E|,|N99999913|,|10|,|N|,|HEC Montreal|,|HEC Montreal|,||,|Y0000|,||,|M|,|Speaking|,
+|O090016013|,|E|,|N99999913|,|10|,|N|,|Adobe Systems Inc.|,|Adobe Systems|,||,|C5120|,|WebSK|,|S|,|Speaking|,
+|O090016014|,|E|,|N99999913|,|10|,|N|,|Southern Illinois University|,|Southern Illinois University|,||,|Y0000|,||,|C|,|Speaking|,
+|O090016015|,|E|,|N99999913|,|10|,|N|,|International Institute for Management Development (IMD)|,|International Institute for Mgt Develop|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016016|,|E|,|N99999913|,|10|,|N|,|CITICS (Consejo Internacional de TIC's)|,|CITICS (Consejo Internacional de TIC's)|,||,|Y0000|,||,|P|,|Speaking|,
+|O090016017|,|E|,|N99999913|,|10|,|N|,|Boston Consulting Group|,|Boston Consulting Group|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016018|,|E|,|N99999913|,|10|,|N|,|National Association for Homecare and Hospice|,|National Assn for Homecare & Hospice|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016019|,|E|,|N99999913|,|10|,|N|,|Council of Better Business Bureaus|,|Council of Better Business Bureaus|,||,|Y0000|,||,|A|,|Speaking|,
+|O090016020|,|E|,|N99999913|,|10|,|N|,|Association for Civil Society Development Development|,|Association for Civil Societ Development|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016021|,|E|,|N99999913|,|10|,|N|,|Advanced Medical Technologies|,|Advanced Medical Technologies|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016022|,|E|,|N99999913|,|10|,|N|,|American Hospital Association|,|American Hospital Assn|,||,|H2100|,|PAC|,|W|,|Speaking|,
+|O090016023|,|E|,|N99999913|,|10|,|N|,|American University|,|American University|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016024|,|E|,|N99999913|,|10|,|N|,|Anheuser-Busch Inbev|,|Anheuser-Busch Inbev|,||,|G2810|,|PAC|,|S|,|Speaking|,
+|O090016025|,|E|,|N99999913|,|10|,|N|,|Association for Enterprise Integration|,|Association for Enterprise Integration|,||,|Y0000|,||,|A|,|Speaking|,
+|O090016026|,|E|,|N99999913|,|10|,|N|,|BKB - Dutch Association of Advertisers|,|BKB-Dutch Association of Advertisers|,||,|Y0000|,||,|A|,|Speaking|,
+|O090016027|,|E|,|N99999913|,|10|,|N|,|Borsen Executive Club|,|Borsen Executive Club|,||,|Y0000|,||,|C|,|Speaking|,
+|O090016028|,|E|,|N99999913|,|10|,|N|,|Carlyle Group|,|Carlyle Group|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016029|,|E|,|N99999913|,|10|,|N|,|Styria Media International AG|,|Styria Media International|,||,|Y0000|,||,|G|,|Speaking|,
+|O090016030|,|E|,|N99999913|,|10|,|N|,|Center for Excellence in Advertising|,|Center for Excellence in Advertising|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016031|,|E|,|N99999913|,|10|,|N|,|Colloquy|,|Colloquy|,||,|Y0000|,||,|C|,|Speaking|,
+|O090016032|,|E|,|N99999913|,|10|,|N|,|Consumer Electronics Association|,|Consumer Electronics Assn|,||,|C0000|,|PAC|,|A|,|Speaking|,
+|O090016033|,|E|,|N99999913|,|10|,|N|,|Cornell University|,|Cornell University|,||,|Y0000|,||,|I|,|Speaking|,
+|O090016034|,|E|,|N99999913|,|10|,|N|,|Cossette|,|Cossette|,||,|Y0000|,||,|T|,|Speaking|,
+|O090016035|,|E|,|N99999913|,|10|,|N|,|Credit Suisse|,|Credit Suisse|,||,|Y0000|,||,|Z|,|Speaking|,
+|O090016036|,|E|,|N99999913|,|10|,|N|,|Credit Union National Association|,|Credit Union National Assn|,||,|F1300|,|PAC|,|M|,|Speaking|,
+|O090016037|,|E|,|N99999913|,|10|,|N|,|Cunha Vaz & Associados|,|Cunha, Vaz & Assoc|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016038|,|E|,|N99999913|,|10|,|N|,|DDB Worldwide Communications Group Inc|,|DDB Worldwide Communications Group|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016039|,|E|,|N99999913|,|10|,|N|,|Denison University|,|Denison University|,||,|H5100|,|Name|,|G|,|Speaking|,
+|O090016040|,|E|,|N99999913|,|10|,|N|,|DePauw University|,|DePauw University|,||,|H5100|,|Name|,|G|,|Speaking|,
+|O090016041|,|E|,|N99999913|,|10|,|N|,|Economic Club of Toronto|,|Economic Club of Toronto|,||,|Y0000|,||,|T|,|Speaking|,
+|O090016042|,|E|,|N99999913|,|10|,|N|,|Edison Electric Institute|,|Edison Electric Institute|,||,|E1600|,|PAC|,|W|,|Speaking|,
+|O090016043|,|E|,|N99999913|,|10|,|N|,|Florida Power & Light Company|,|Florida Power & Light|,|NextEra Energy|,|E1600|,|PAC|,|M|,|Speaking|,
+|O090016044|,|E|,|N99999913|,|10|,|N|,|Food Marketing Institute|,|Food Marketing Institute|,||,|G2400|,|PAC|,|A|,|Speaking|,
+|O090016045|,|E|,|N99999913|,|10|,|N|,|Frederikshavn Event|,|Frederikshavn Event|,||,|Y0000|,||,|F|,|Speaking|,
+|O090016046|,|E|,|N99999913|,|10|,|N|,|FTI Consulting|,|Fti Consulting|,||,|G5200|,|Hvr07|,|N|,|Speaking|,
+|O090016047|,|E|,|N99999913|,|10|,|N|,|Fundacion Telmex A.C.|,|Fundacion Telmex AC|,||,|Y0000|,||,|M|,|Speaking|,
+|O090016048|,|E|,|N99999913|,|10|,|N|,|General Mills|,|General Mills|,||,|G2100|,|PAC|,|M|,|Speaking|,
+|O090016049|,|E|,|N99999913|,|10|,|N|,|Global Retail Marketing Association|,|Global Retail Marketing Assn|,||,|Y0000|,||,|S|,|Speaking|,
+|O090016050|,|E|,|N99999913|,|10|,|N|,|Globes Publisher Itonut (1983) Ltd|,|Globes Publisher Itonut (1983) Ltd|,||,|Y0000|,||,|R|,|Speaking|,
+|O090016051|,|E|,|N99999913|,|10|,|N|,|Grocery Manufacturers Association (GMA)|,|Grocery Manufacturers Assn|,||,|G2100|,|PAC|,|W|,|Speaking|,
+|O090016052|,|E|,|N99999913|,|10|,|N|,|Goucher College|,|Goucher College|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016053|,|E|,|N99999913|,|10|,|N|,|GPM Deutsche Gesellschaft fur Projektmanagement e. V.|,|GPM Deutsche Gesellschaft fur Projektmgt|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016054|,|E|,|N99999913|,|10|,|N|,|The George Washington University|,|George Washington University|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016055|,|E|,|N99999913|,|10|,|N|,|Hofstra University|,|Hofstra University|,||,|Y0000|,||,|H|,|Speaking|,
+|O090016056|,|E|,|N99999913|,|10|,|N|,|Institute for International Research (IIR)|,|Institute for International Research|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016057|,|E|,|N99999913|,|10|,|N|,|Institute for International Research Middle East|,|Institute for Intl Research Middle East|,||,|Y0000|,||,|D|,|Speaking|,
+|O090016058|,|E|,|N99999913|,|10|,|N|,|International Council Shopping Centers Inc.|,|International Council of Shopping Cntrs|,||,|G4000|,|PAC|,|W|,|Speaking|,
+|O090016059|,|E|,|N99999913|,|10|,|N|,|Warrilow & Company|,|Warrilow & Co|,||,|Y0000|,||,|T|,|Speaking|,
+|O090016060|,|E|,|N99999913|,|10|,|N|,|Lockheed Martin Corporation|,|Lockheed Martin|,||,|D2000|,|PAC|,|B|,|Speaking|,
+|O090016061|,|E|,|N99999913|,|10|,|N|,|Massachussetts College of Liberal Arts|,|Massachussetts College of Liberal Arts|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016062|,|E|,|N99999913|,|10|,|N|,|March of Dimes Canada|,|March of Dimes Canada|,||,|Y0000|,||,|T|,|Speaking|,
+|O090016063|,|E|,|N99999913|,|10|,|N|,|Marketing Professionals|,|Marketing Professionals|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016064|,|E|,|N99999913|,|10|,|N|,|National Association of Real Estate Investment Trust Foundation|,|National Assn of REIT Foundation|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016065|,|E|,|N99999913|,|10|,|N|,|National Association of Realtors|,|National Assn of Realtors|,||,|F4200|,|PAC|,|C|,|Speaking|,
+|O090016066|,|E|,|N99999913|,|10|,|N|,|National Network for Youth|,|National Network for Youth|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016067|,|E|,|N99999913|,|10|,|N|,|National Propane Gas Association|,|National Propane Gas Assn|,||,|E1190|,|PAC|,|W|,|Speaking|,
+|O090016068|,|E|,|N99999913|,|10|,|N|,|New Profit, Inc.|,|New Profit Inc|,||,|Y0000|,||,|C|,|Speaking|,
+|O090016069|,|E|,|N99999913|,|10|,|N|,|Oracle America Inc.|,|Oracle America|,||,|Y0000|,||,|R|,|Speaking|,
+|O090016070|,|E|,|N99999913|,|10|,|N|,|Osec Forum der Aussenwirtschaft|,|Osec Forum der Aussenwirtschaft|,||,|Y0000|,||,|Z|,|Speaking|,
+|O090016071|,|E|,|N99999913|,|10|,|N|,|Panetta Institute for Public Policy|,|Panetta Institute for Public Policy|,||,|Y0000|,||,|S|,|Speaking|,
+|O090016072|,|E|,|N99999913|,|10|,|N|,|People to People Student Ambassador Programs|,|People to People Student Ambassador Prog|,||,|Y0000|,||,|S|,|Speaking|,
+|O090016073|,|E|,|N99999913|,|10|,|N|,|McKesson|,|McKesson|,||,|Y0000|,||,|S|,|Speaking|,
+|O090016074|,|E|,|N99999913|,|10|,|N|,|Pomona College|,|Pomona College|,||,|Y0000|,||,|C|,|Speaking|,
+|O090016075|,|E|,|N99999913|,|10|,|N|,|Posten Norge AS|,|Posten Norge AS|,||,|Y0000|,||,|O|,|Speaking|,
+|O090016076|,|E|,|N99999913|,|10|,|N|,|Produce Marketing Association|,|Produce Marketing Assn|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016077|,|E|,|N99999913|,|10|,|N|,|Public Affairs Council|,|Public Affairs Council|,||,|Y0000|,||,|W|,|Speaking|,
+|O090016078|,|E|,|N99999913|,|10|,|N|,|Richmond Events|,|Richmond Events|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016079|,|E|,|N99999913|,|10|,|N|,|Fidelity Investment Services|,|Fidelity Investment Services|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016080|,|E|,|N99999913|,|10|,|N|,|Talerforum FST Cision|,|Talerforum FST Cision|,||,|Y0000|,||,|S|,|Speaking|,
+|M080133556|,|E|,|N99999927|,|08|,|N|,|The Rockefeller Foundation|,|Rockefeller Foundation|,||,|X4100|,|Name|,|New York, NY|,|Services as member of Board of Trustees|,
+|M080133557|,|E|,|N99999927|,|08|,|N|,|Henry Schein, Inc|,|Henry Schein Inc|,||,|H4100|,|PB02|,||,|Services as member of Board of Directors/Medical Advisory Board|,
+|M080133558|,|E|,|N99999927|,|08|,|N|,|Constella Group|,|Constella Group|,||,|H4000|,|Lob07|,||,|Services as member of Advisory Council|,
+|D110008123|,|H|,|N00033539|,|11|,|N|,|Pinter, Randall|,|Pinter, Randall|,||,|Y0000|,||,||,||,
+|D110008124|,|H|,|N00033539|,|11|,|N|,|Reagan, James|,|Reagan, James|,||,|Y0000|,||,||,||,
+|D110008125|,|H|,|N00033539|,|11|,|N|,|Rent 1st|,|Rent 1st|,||,|Y0000|,||,||,||,
+|D110008126|,|H|,|N00033539|,|11|,|N|,|Rittman, Barry & Jill|,|Rittman, Barry & Jill|,||,|Y0000|,||,||,||,
+|D110008127|,|H|,|N00033539|,|11|,|N|,|Roden, Tamarra|,|Roden, Tamarra|,||,|Y0000|,||,||,||,
+|D110008128|,|H|,|N00033539|,|11|,|N|,|Rosales, Guillermo|,|Rosales, Guillermo|,||,|Y0000|,||,||,||,
+|D110008129|,|H|,|N00033539|,|11|,|N|,|Samples, Frank|,|Samples, Frank|,||,|Y0000|,||,||,||,
+|D110008130|,|H|,|N00033539|,|11|,|N|,|Sass, Brian & Cindy|,|Sass, Brian & Cindy|,||,|Y0000|,||,||,||,
+|D110008131|,|H|,|N00033539|,|11|,|N|,|Scott, Rick|,|Scott, Rick|,||,|Y0000|,||,||,||,
+|D110008132|,|H|,|N00033539|,|11|,|N|,|Smaistrla, David & Gracia|,|Smaistrla, David & Gracia|,||,|Y0000|,||,||,||,
+|D110008133|,|H|,|N00033539|,|11|,|N|,|Springer, Justin|,|Springer, Justin|,||,|Y0000|,||,||,||,
+|D110008134|,|H|,|N00033539|,|11|,|N|,|Talton, Robert & Sue|,|Talton, Robert & Sue|,||,|Y0000|,||,||,||,
+|D110008135|,|H|,|N00033539|,|11|,|N|,|Texas Plumbing Supply|,|Texas Plumbing Supply|,||,|Y0000|,||,||,||,
+|D110008136|,|H|,|N00033539|,|11|,|N|,|Thomas, Mike & Rose|,|Thomas, Mike & Rose|,||,|Y0000|,||,||,||,
+|D110008137|,|H|,|N00033539|,|11|,|N|,|Thompson, Bert & Cathy|,|Thompson, Bert & Cathy|,||,|Y0000|,||,||,||,
+|D110008138|,|H|,|N00033539|,|11|,|N|,|Thornton, David & Sherry|,|Thornton, David & Sherry|,||,|Y0000|,||,||,||,
+|D110008139|,|H|,|N00033539|,|11|,|N|,|Traffic Control Devices|,|Traffic Control Devices|,||,|Y0000|,||,||,||,
+|D110008140|,|H|,|N00033539|,|11|,|N|,|Traub, Glenn|,|Traub, Glenn|,||,|Y0000|,||,||,||,
+|D110008141|,|H|,|N00033539|,|11|,|N|,|Traub, Karen|,|Traub, Karen|,||,|Y0000|,||,||,||,
+|D110008142|,|H|,|N00033539|,|11|,|N|,|Van Manor Mobile Home|,|Van Manor Mobile Home|,||,|Y0000|,||,||,||,
+|D110008143|,|H|,|N00033539|,|11|,|N|,|Wachtendorf, Kirt|,|Wachtendorf, Kirt|,||,|Y0000|,||,||,||,
+|D110008144|,|H|,|N00033539|,|11|,|N|,|Weber, Norman & Jeanne|,|Weber, Norman & Jeanne|,||,|Y0000|,||,||,||,
+|D110008145|,|H|,|N00033539|,|11|,|N|,|Westbrook Manufacturing|,|Westbrook Manufacturing|,||,|Y0000|,||,||,||,
+|D110008146|,|H|,|N00033539|,|11|,|N|,|Winder, Homer|,|Winder, Homer|,||,|Y0000|,||,||,||,
+|D110008147|,|H|,|N00033539|,|11|,|N|,|Whittington, Chris & Joann|,|Whittington, Chris & Joann|,||,|Y0000|,||,||,||,
+|D110008148|,|H|,|N00033539|,|11|,|N|,|Woodward, Penny|,|Woodward, Penny|,||,|Y0000|,||,||,||,
+|D110008149|,|H|,|N00033539|,|11|,|N|,|Zwart, Dan & Sara|,|Zwart, Dan & Sara|,||,|Y0000|,||,||,||,
+|D110008247|,|H|,|N00033630|,|11|,|N|,|Influential Data, LLC|,|Influential Data LLC|,||,|Y0000|,||,||,||,
+|D110008368|,|H|,|N00033832|,|11|,|N|,|Estate of FAC Enfit Waltman 950 48th Ave, N, Suite 200|,|Estate of FAC Enfit Waltman 950 48th Ave|,||,|Y0000|,||,||,||,
+|D110008369|,|H|,|N00033832|,|11|,|N|,|Estate of Mary Benway 950 48th Avenue, N, Suite 200|,|Estate of Mary Benway|,||,|Y0000|,||,||,||,
+|D110008812|,|H|,|N00034017|,|11|,|N|,|Prosperity Florida|,|Prosperity Florida|,||,|Y0000|,||,||,||,
+|D110009161|,|H|,|N00034128|,|11|,|N|,|Names excluded us confidential by agreement and pursuant to Pa.R.Prof. Conduct 1.6|,|Excluded as confidential by agreement|,||,|Y0000|,||,||,||,
+|D110009267|,|H|,|N00034349|,|11|,|N|,|Rhodes & Vela, LLP|,|Rhodes & Vela|,||,|Y0000|,||,||,||,
+|D110009268|,|H|,|N00034349|,|11|,|N|,|Vela & Reed PLLC|,|Vela & Reed|,||,|Y0000|,||,||,||,
+|D110009269|,|H|,|N00034349|,|11|,|N|,|Filemon Vela Law Group PLLC|,|Filemon Vela Law Group|,||,|K1000|,|Name|,||,||,
+|A120001058|,|E|,|N00005301|,|12|,|N|,|Deutsche Bank|,|Deutsche Bank|,||,|F1100|,|Name|,||,|Advisory Board Member|,
+|A120001059|,|E|,|N00005301|,|12|,|N|,|Corsair Capital|,|Corsair Capital|,||,|F0000|,|Name|,||,|Advisory Board Member|,
+|A120001060|,|E|,|N00005301|,|12|,|N|,|McCarthy Capital|,|McCarthy Capital|,||,|Y0000|,||,||,|Senior Advisor|,
+|A120001061|,|E|,|N00005301|,|12|,|N|,|Zurich Insurance Group, Zurich in North America|,|Zurich Insurance Group|,||,|Y0000|,||,||,|Director|,
+|A120001062|,|E|,|N00005301|,|12|,|N|,|M.I.C. Industries|,|MIC Industries|,||,|Y0000|,||,||,|Special Advisor|,
+|A120001069|,|E|,|N00005301|,|12|,|N|,|Chevron Corporation|,|Chevron Corporation|,||,|Y0000|,||,||,|Board of Directors|,
+|A120001070|,|E|,|N00005301|,|12|,|N|,|Gallup|,|Gallup|,||,|Y0000|,||,||,|Senior Advisor|,
+|A120001071|,|E|,|N00005301|,|12|,|N|,|Washington Speakers Bureau|,|Washington Speakers Bureau|,||,|G5200|,|Name|,||,|Speak at events scheduled and organized by the Washington Speakers Bureau|,
+|A120001072|,|E|,|N00005301|,|12|,|N|,|*Forderverein fur Aklives Asset Management|,|Forderverein fur Aklives Asset Mgt|,||,|Y0000|,||,||,|Speech (01/11/2011)|,
+|A120001073|,|E|,|N00005301|,|12|,|N|,|*BNP Paribas|,|BNP Paribas|,||,|Y0000|,||,||,|Speech (02/01/2011|,
+|A120001074|,|E|,|N00005301|,|12|,|N|,|*SkyBridge Capital, LLC|,|SkyBridge Capital|,||,|Y0000|,||,||,|Speech (03/03/2011)|,
+|A120001081|,|E|,|N00005301|,|12|,|N|,|*The Speacker Agency F/S/T Truck Renting and Leasing Association|,|Truck Renting & Leasing Assn|,||,|Y0000|,||,||,|Speech (03/06/2011)|,
+|A120001082|,|E|,|N00005301|,|12|,|N|,|*Citi|,|Citicorp|,||,|Y0000|,||,||,|Speech (09/21/2011)|,
+|j080095434|,|E|,|N99999935|,|08|,|N|,|The Brookings Institution|,|Brookings Institution|,||,|X4000|,|SK|,||,|Salary as Senior Fellow|,
+|j080095435|,|E|,|N99999935|,|08|,|N|,|MacArthur Foundation|,|MacArthur Foundation|,||,|X4100|,|Name|,||,|Consultant|,
+|j080095436|,|E|,|N99999935|,|08|,|N|,|Bureau of National Affairs|,|Bureau of National Affairs|,||,|C1100|,|WebSK|,||,|Director|,
+|j080095437|,|E|,|N99999935|,|08|,|N|,|Obama-Biden Presidential Transition|,|Obama-Biden Presidential Transition|,||,|Y0000|,||,||,|Salary as Member of Advisory Board and Leader of National Security Policy Team|,
+|j080095481|,|E|,|N99999936|,|08|,|N|,|University of California|,|University of California|,||,|H5100|,|Name|,|Berkeley, CA|,|Professor of Economics|,
+|j080095482|,|E|,|N99999936|,|08|,|N|,|National Bureau of Economic Research|,|National Bureau of Economic Research|,||,|Y0000|,||,||,|Program Co-Director and Research Associate|,
+|j080095508|,|E|,|N99999937|,|08|,|N|,|State of Kansas|,|State of Kansas|,||,|X3000|,|Name|,||,|Governor of State of Kansas|,
+|E110016607|,|H|,|N00029400|,|11|,|A|,|New Mexico Medical Insurance Pool|,|New Mexico Medical Insurance Pool|,||,|Y0000|,||,||,||,
+|A120001083|,|E|,|N00005301|,|12|,|N|,|*Putnam Investments|,|Putnam Investments|,||,|Y0000|,||,||,|Speech (10/12/2011)|,
+|A120001084|,|E|,|N00005301|,|12|,|N|,|*Cameron University|,|Cameron University|,||,|Y0000|,||,||,|Speech (10/26/2011)|,
+|A120001085|,|E|,|N00005301|,|12|,|N|,|*University of Oklahoma|,|University of Oklahoma|,||,|Y0000|,||,||,|Speech (10/27/2011)|,
+|A120001086|,|E|,|N00005301|,|12|,|N|,|*Barclays Services Corporation|,|Barclays Services Corporation|,||,|Y0000|,||,||,|Speech (06/14/2012)|,
+|A120001093|,|E|,|N00005301|,|12|,|N|,|*National Multi Housing Council|,|National Multi Housing Council|,||,|Y0000|,||,||,|Speech (09/11/2012)|,
+|A120001094|,|E|,|N00005301|,|12|,|N|,|*Rabobank|,|Rabobank|,||,|Y0000|,||,||,|Speech (09/13/2012)|,
+|A120001095|,|E|,|N00005301|,|12|,|N|,|*Rohde & Schwarz N.A.|,|Rohde & Schwarz|,||,|Y0000|,||,||,|Speech (09/19/2012)|,
+|A120001101|,|E|,|N00005301|,|12|,|A|,|U.S.-Poland Business Council|,|US-Poland Business Council|,||,|Y0000|,||,||,|Speech (10/10/2012)|,
+|A120001247|,|E|,|N99999898|,|12|,|N|,|GE Ecomagination|,|GE Ecomagination|,||,|Y0000|,||,||,|Consultant, green products|,
+|A120001248|,|E|,|N99999898|,|12|,|N|,|Fondazione Eni Enrico Mattel|,|Fondazione Eni Enrico Mattel|,||,|Y0000|,||,||,|Advisor|,
+|A120001249|,|E|,|N99999898|,|12|,|N|,|Angeleno Group|,|Angeleno Group|,||,|F2100|,|WebPN|,||,|Member, Board of Advisors|,
+|A120001250|,|E|,|N99999898|,|12|,|N|,|MIT|,|Massachusetts Institute of Technology|,||,|Y0000|,||,||,|Professor & Director MIT Energy Initiative|,
+|A120001251|,|E|,|N99999898|,|12|,|N|,|American Science & Engineering|,|American Science & Engineering|,||,|Y0000|,||,||,|Member, Board of Directors|,
+|A120001252|,|E|,|N99999898|,|12|,|N|,|ICF International|,|ICF International|,||,|G5200|,|Lob11|,||,|Member, Board of Directors|,
+|A120001258|,|E|,|N99999898|,|12|,|N|,|BP, plc|,|BP|,||,|Y0000|,||,||,|Consultant|,
+|A120001259|,|E|,|N99999898|,|12|,|N|,|IHS/CERA|,|IHS/CERA|,||,|Y0000|,||,||,|Speaker and program consltant|,
+|A120001260|,|E|,|N99999898|,|12|,|N|,|Riverstone Equity Holdings, LP|,|Riverstone Equity Holdings|,||,|Y0000|,||,||,|Consultant|,
+|A120001261|,|E|,|N99999898|,|12|,|N|,|King Abdullah Petroleum Studies and Research Center|,|King Abdullah Petroleum Studies/Rsch Ctr|,||,|Y0000|,||,||,|Member, Advisory Board|,
+|A120001370|,|E|,|N99999899|,|12|,|N|,|MetLife, Inc.|,|MetLife Inc|,||,|Y0000|,||,||,|Board Service|,
+|A120001371|,|E|,|N99999899|,|12|,|N|,|Wal-Mart Stores, Inc.|,|Wal-Mart Stores|,||,|Y0000|,||,||,|Employment as President, Walmart Foundation; Vice President, Wal-Mart Stores, Inc.|,
+|A120001372|,|E|,|N99999899|,|12|,|N|,|Bill and Melinda Gates Foundation|,|Bill & Melinda Gates Foundation|,||,|Y0000|,||,||,|President, Global Development|,
+|A120001715|,|E|,|N99999900|,|12|,|N|,|REI|,|Recreational Equipment Inc|,||,|Y0000|,||,||,|President & CEO|,
+|A120014780|,|S|,|N00028138|,|12|,|N|,|State of Hawaii|,|State of Hawaii|,||,|X3000|,|Name|,||,|Salary for Lieutenant Governor|,
+|A120016274|,|S|,|N00033782|,|12|,|Y|,|Abrams Information Learning Systems|,|Abrams Information Learning Systems|,||,|Y0000|,||,||,|Advisory Board Payment Made To HH, Inc|,
+|A120016275|,|S|,|N00033782|,|12|,|Y|,|Dakota Gasification Company|,|Dakota Gasification|,||,|Y0000|,||,||,|Board Payment|,
+|A120016276|,|S|,|N00033782|,|12|,|Y|,|Heidi Heitkamp, Inc|,|Heidi Heitkamp Inc|,||,|Y0000|,||,||,|President|,
+|B120044761|,|S|,|N99999896|,|12|,|N|,|Commonwealth of Massachusetts|,|Commonwealth of Massachusetts|,||,|X3000|,|Name|,||,|Salary for Service as Chief of Staff to the Governor of the Commonwealth|,
+|C120016747|,|S|,|N99999896|,|12|,|T|,|Commonwealth of Massachusetts|,|Commonwealth of Massachusetts|,||,|X3000|,|Name|,||,|Salary for Service as Chief of Staff to the Governor of the Commonwealth|,
+|D120100416|,|S|,|N00035267|,|12|,|N|,|Baldwin Wallace College (2011)|,|Baldwin Wallace College|,||,|Y0000|,||,||,|Speaker|,
+|D120100417|,|S|,|N00035267|,|12|,|N|,|Weinstein JCC (2011)|,|Weinstein JCC|,||,|Y0000|,||,||,|Speaker|,
+|D120100418|,|S|,|N00035267|,|12|,|N|,|NYU Stern School of Business (2011)|,|NYU Stern School of Business|,|New York University|,|Y0000|,||,||,|Speaker|,
+|D120100419|,|S|,|N00035267|,|12|,|N|,|Greater Omaha Chapter (2011)|,|Greater Omaha Chapter|,||,|Y0000|,||,||,|Speaker|,
+|D120100420|,|S|,|N00035267|,|12|,|N|,|Bridgewater State (2011)|,|Bridgewater State|,||,|Y0000|,||,||,|Speaker|,
+|D120100421|,|S|,|N00035267|,|12|,|N|,|ACPA College Student (2011)|,|ACPA College Student|,||,|Y0000|,||,||,|Speaker|,
+|D120100422|,|S|,|N00035267|,|12|,|N|,|UB Foundation (2011)|,|UB Foundation|,||,|Y0000|,||,||,|Speaker|,
+|D120100423|,|S|,|N00035267|,|12|,|N|,|MedAssets (2011)|,|MedAssets|,||,|Y0000|,||,||,|Speaker|,
+|D120100424|,|S|,|N00035267|,|12|,|N|,|United Way (2011)|,|United Way|,||,|Y0000|,||,||,|Speaker|,
+|D120100425|,|S|,|N00035267|,|12|,|N|,|University of Rhode Island (2011)|,|University of Rhode Island|,||,|Y0000|,||,||,|Speaker|,
+|D120100426|,|S|,|N00035267|,|12|,|N|,|Capela University (2011)|,|Capela University|,||,|Y0000|,||,||,|Speaker|,
+|D120100427|,|S|,|N00035267|,|12|,|N|,|Iconix Brand Group (2011)|,|Iconix Brand Group|,||,|Y0000|,||,||,|Speaker|,
+|D120100428|,|S|,|N00035267|,|12|,|N|,|Willow Creek Association (2011)|,|Willow Creek Assn|,||,|Y0000|,||,||,|Speaker|,
+|D120100429|,|S|,|N00035267|,|12|,|N|,|MetLife (2011)|,|MetLife Inc|,||,|Y0000|,||,||,|Speaker|,
+|D120100430|,|S|,|N00035267|,|12|,|N|,|University of North Carolina (2011)|,|University of North Carolina|,||,|Y0000|,||,||,|Speaker|,
+|O090016081|,|E|,|N99999913|,|10|,|N|,|The Richmond Forum|,|Richmond Forum|,||,|Y0000|,||,|R|,|Speaking|,
+|O090016082|,|E|,|N99999913|,|10|,|N|,|The UP Experience Inc.|,|UP Experience Inc|,||,|Y0000|,||,|B|,|Speaking|,
+|O090016083|,|E|,|N99999913|,|10|,|N|,|Toronto Real Estate Board|,|Toronto Real Estate Board|,||,|Y0000|,||,|T|,|Speaking|,
+|O090016084|,|E|,|N99999913|,|10|,|N|,|Turkcell|,|Turkcell|,||,|Y0000|,||,|I|,|Speaking|,
+|O090016085|,|E|,|N99999913|,|10|,|N|,|University of Pittsburgh|,|University of Pittsburgh|,||,|H5100|,|Name|,|P|,|Speaking|,
+|O090016086|,|E|,|N99999913|,|10|,|N|,|University of California, Davis|,|University of California/Davis|,|University of California|,|Y0000|,||,|D|,|Speaking|,
+|O090016087|,|E|,|N99999913|,|10|,|N|,|United Way Worldwide|,|United Way Worldwide|,||,|Y0000|,||,|A|,|Speaking|,
+|O090016088|,|E|,|N99999913|,|10|,|N|,|Vocus|,|Vocus|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016089|,|E|,|N99999913|,|10|,|N|,|World 50 Inc.|,|World 50 Inc|,||,|Y0000|,||,|A|,|Speaking|,
+|O090016090|,|E|,|N99999913|,|10|,|N|,|Young Presidents' Organization Fairchester|,|Young Presidents' Org Fairchester|,|Young Presidents' Organization|,|Y0000|,||,|F|,|Speaking|,
+|O090016091|,|E|,|N99999913|,|10|,|N|,|Center for Excellence in Advertising|,|Center for Excellence in Advertising|,||,|Y0000|,||,|N|,|Speaking|,
+|O090016092|,|E|,|N99999913|,|10|,|N|,|Young Presidents' Organization Colorado|,|Young Presidents' Organization Colorado|,|Young Presidents' Organization|,|Y0000|,||,|D|,|Speaking|,
+|O090016093|,|E|,|N99999913|,|10|,|N|,|Speak Inc., - Co-Op Financial Services|,|Speak Inc|,||,|Y0000|,||,|R|,|Speaking|,
+|O090016094|,|E|,|N99999913|,|10|,|N|,|MTN Nigeria|,|MTN Nigeria|,||,|Y0000|,||,|L|,|Speaking|,
+|O090016095|,|E|,|N99999913|,|10|,|N|,|Georgetown University|,|Georgetown University|,||,|H5100|,|Name|,|W|,|Speaking|,
+|O090016355|,|E|,|N99999914|,|09|,|N|,|JPMorgan Chase & Co|,|JPMorgan Chase & Co|,||,|F1100|,|PAC|,|N|,|Vice Chairman of Midwest Division|,
+|O090016356|,|E|,|N99999914|,|09|,|N|,|Abbott Laboratories|,|Abbott Laboratories|,||,|H4300|,|PAC|,|C|,|Member of Board of Directors|,
+|O090016357|,|E|,|N99999914|,|09|,|N|,|Boeing Company|,|Boeing Co|,||,|D2000|,|PAC|,|C|,|Member of Board of Directors|,
+|N090007716|,|S|,|N00032762|,|09|,|N|,|East Resources|,|East Resources|,||,|Y0000|,||,|Warrendale, PA|,|Legal Services (merger & regulatory process)|,
+|N090007717|,|S|,|N00032762|,|09|,|N|,|Roseann Osborne|,|Roseann Osborne|,||,|Y0000|,||,|Charleston, WV|,|Legal services (Court-appointed appellate work-criminal case)|,
+|N090007718|,|S|,|N00032762|,|09|,|N|,|Charles Ryan Associates|,|Charles Ryan Associates|,||,|Y0000|,||,|Charleston, WV|,|Legal services (admin & litigation)|,
+|N090007719|,|S|,|N00032762|,|09|,|N|,|Moodlerooms, Inc|,|Moodlerooms Inc|,||,|Y0000|,||,|Baltimore, MD|,|Legal services (admin & litigation)|,
+|N090007720|,|S|,|N00032762|,|09|,|N|,|Rrsh Equipment|,|Rrsh Equipment|,||,|Y0000|,||,|Bluefield, WV|,|Legal services (litigation)|,
+|N090007721|,|S|,|N00032762|,|09|,|N|,|Kanauka County Parks & Rec. Com'n|,|Kanauka County Parks & Rec Commission|,||,|Y0000|,||,|Charleston, WV|,|Legal services|,
+|N090007722|,|S|,|N00032762|,|09|,|N|,|Aetna Building Maintenance|,|Aetna Building Maintenance|,||,|Y0000|,||,|Columbus, OH|,|Legal services (litigation)|,
+|N090007723|,|S|,|N00032762|,|09|,|N|,|EquaTerra, Inc.|,|EquaTerra Inc|,||,|C5130|,|WebJC|,|Washington, DC|,|Legal services|,
+|N090007724|,|S|,|N00032762|,|09|,|N|,|Sears Holding Mngt., Co.|,|Sears Holding|,||,|Y0000|,||,|Hoffman Estates, IL|,|Legal services (litigation)|,
+|N090007725|,|S|,|N00032762|,|09|,|N|,|SAP|,|Sap AG|,||,|C5130|,|Hvr08|,|Newtown Square, PA|,|Legal services (gov't relations)|,
+|N090007726|,|S|,|N00032762|,|09|,|N|,|Yun Brands, Inc.|,|YUM! Brands|,||,|G2900|,|PAC|,|Louisville, KY|,|Legal services (gov't relations)|,
+|N090007802|,|S|,|N00032838|,|09|,|N|,|State of West Virginia|,|State of West Virginia|,||,|X3000|,|Name|,|Charleston, WV|,|Governor of WV|,
+|E110016944|,|H|,|N00012546|,|11|,|A|,|Wireless Generation|,|Wireless Generation|,||,|C5130|,|Lob11|,||,||,
+|N090006086|,|S|,|N00030612|,|09|,|A|,|Court Options (client of Fla Strategic Consulting & M Rubio PA)|,|Court Options|,||,|Y0000|,||,|Miami, FL|,|Legal and Consulting services|,
+|N090006087|,|S|,|N00030612|,|09|,|A|,|Miami Childrens Hospital (client of Fla Strategic Consulting and M Rubio PA|,|Miami Childrens Hospital|,||,|Y0000|,||,|Miami, FL|,|Legal and Consulting services|,
+|N090006088|,|S|,|N00030612|,|09|,|A|,|Larkin Community Hospital (client of Marco Rubio, PA)|,|Larkin Community Hospital|,||,|H2100|,|Name|,|Miami, FL|,|Legal Services|,
+|N090006089|,|S|,|N00030612|,|09|,|A|,|Hypower Electric (client of Marco Rubio, PA)|,|Hypower Electric|,||,|Y0000|,||,|Miami, FL|,|Legal Services|,
+|A080075585|,|S|,|N00015389|,|08|,|N|,|Cybersettle|,|Cybersettle|,||,|Y0000|,||,|New York, NY|,|Consulting|,| |
+|A080075586|,|S|,|N00015389|,|08|,|N|,|Guaranteed Rate Mortgage Assn|,|Guaranteed Rate Mortgage Assn|,||,|Y0000|,||,|Chicago, IL|,|Consulting|,| |
+|A080075587|,|S|,|N00015389|,|08|,|N|,|Careese L. Rials|,|Careese L Rials|,||,|Y0000|,||,|Chicago, IL|,|Legal Services|,| |
+|A080075588|,|S|,|N00015389|,|08|,|N|,|Gonzalez Saggio & Harlan, LLC|,|Gonzalez, Saggio & Harlan|,||,|K1000|,|WebLM|,|Chicago, IL|,|Legal Services|,| |
+|A080075589|,|S|,|N00015389|,|08|,|N|,|Estate of Earl Haskell|,|Estate of Earl Haskell|,||,|Y0000|,||,|Chicago, IL|,|Legal Services|,| |
+|A080075590|,|S|,|N00015389|,|08|,|N|,|ASK Public Relations|,|ASK Public Relations|,||,|Y0000|,||,|Chicago, IL|,|Consulting|,| |
+|A080075591|,|S|,|N00015389|,|08|,|N|,|Whiting Law Group|,|Whiting Law Group|,||,|Y0000|,||,|Chicago, IL|,|Legal Services|,| |
+|A080075592|,|S|,|N00015389|,|08|,|N|,|Pamela Williams Estate|,|Pamela Williams Estate|,||,|Y0000|,||,|Chicago, IL|,|Legal Services|,| |
+|A080075593|,|S|,|N00015389|,|08|,|N|,|Micro-Sun Technologies|,|Micro-Sun Technologies|,||,|Y0000|,||,|Lisle, IL|,|Consulting|,| |
+|A080090280|,|S|,|N00030767|,|08|,|N|,|Citizens for Biden|,|Citizens for Biden|,||,|Y0000|,||,|Wilmington, DE|,|Political and Management Consulting Services|,| |
+|A080090281|,|S|,|N00030767|,|08|,|N|,|Obama Transition Project|,|Obama Transition Project|,||,|Y0000|,||,|Washington, DC|,|Worked on Vice President's Transition Team|,| |
+|A080090282|,|S|,|N00030767|,|08|,|N|,|Duke University|,|Duke University|,||,|H5100|,|Name|,|Washington, DC|,|Teaching|,| |
+|A080091315|,|S|,|N00030608|,|08|,|N|,|Denver School District No. 1|,|Denver Public School District 1|,||,|Y0000|,||,|Denver, CO|,|Superintendent Salary|,| |
+|I070002598|,|E|,|N99999950|,|07|,|N|,|Mrs. Theodate L. Coates|,|Mrs Theodate L Coates|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|I070002599|,|E|,|N99999950|,|07|,|N|,|Dennis J. Buckley, Liquidating Ttee of DVI, Inc.|,|Dennis Buckley/Liquidating Tste, DVI Inc|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|I070002600|,|E|,|N99999950|,|07|,|N|,|US Bank National Association Tttee XL Capital Assurance inc.|,|US Bank National Assn Tttee XL Ca|,||,|Y0000|,||,|Chicago, IL|,|Legal Services|,| |
+|I070002601|,|E|,|N99999950|,|07|,|N|,|Nomura Credit + Capital Inc. and Harris Nesbitt Corp|,|Nomura Credit & Capital|,||,|F0000|,|Name|,|Wilmington, DE|,|Legal Services|,| |
+|I070002602|,|E|,|N99999950|,|07|,|N|,|Herve Gouraige|,|Herve Gouraige|,||,|Y0000|,||,|Newark, NJ|,|Legal Services|,| |
+|I070002603|,|E|,|N99999950|,|07|,|N|,|Estate of Douglas Hancock, Honeywell Intl, Inc. ExcelAire Svces NYNY|,|Estate of Douglas Hancock/Honeywell Intl|,||,|Y0000|,||,|Philadelphia, PA|,|Legal Services|,| |
+|I070002604|,|E|,|N99999950|,|07|,|N|,|IDT Aerotel Advice|,|IDT Aerotel Advice|,||,|Y0000|,||,|Newark, NJ|,|Legal Services|,| |
+|I070002605|,|E|,|N99999950|,|07|,|N|,|Linda Philips Lay/Goldman Sachs 1999 Exchange Place Fund Hous TX|,|Linda Philips Lay/Goldman Sachs 1999 Exc|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|I070002606|,|E|,|N99999950|,|07|,|N|,|Public Serv Elect & Gas of Newark NJ/Delmarva Pwr & Elect Co.|,|Public Serv Elect & Gas of Newark NJ/Del|,||,|Y0000|,||,|Washington, DC|,|Legal Services|,| |
+|I070002607|,|E|,|N99999950|,|07|,|N|,|Quinn Emanuel Urquhart Oliver & Hedges LLP|,|Quinn, Emanuel et al|,||,|K1100|,|WebPN|,|New York, NY|,|Legal Services|,| |
+|I070002608|,|E|,|N99999950|,|07|,|N|,|Renco Group Inc|,|Renco Group|,||,|M2100|,|HVR08|,|New York, NY|,|Legal Services|,| |
+|I070002609|,|E|,|N99999950|,|07|,|N|,|Reynolds Porter Chamberlain LLP London England|,|Reynolds Porter Chamberlain LLP|,||,|Y0000|,||,||,|Legal Services|,| |
+|I070002610|,|E|,|N99999950|,|07|,|N|,|Solow Realty & Dev Co. LLC|,|Solow Realty & Development Co|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|I070002611|,|E|,|N99999950|,|07|,|N|,|Sotheby's Inc.|,|Sotheby's Inc|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|I070002612|,|E|,|N99999950|,|07|,|N|,|Tadiran Telecom Inc./Sprint Products Group|,|Tadiran Telecom/Sprint Products Group|,||,|Y0000|,||,|New York, NY|,|Legal Services|,| |
+|I070002613|,|E|,|N99999950|,|07|,|N|,|Village Voice Media/Marsh USA Inc. NY NY|,|Village Voice Media/Marsh USA|,||,|Y0000|,||,|Los Angeles, CA|,|Legal Services|,| |
+|I070002614|,|E|,|N99999950|,|07|,|N|,|Winston & Strawn LLP|,|Winston & Strawn|,||,|K1000|,|PAC|,|Chicago, IL|,|Legal Services|,| |
+|I070002615|,|E|,|N99999950|,|07|,|N|,|PBW&T|,|PBWT|,||,|Y0000|,||,||,|Legal Services|,| |
+|I070002616|,|E|,|N99999950|,|07|,|N|,|XE Capital Management|,|XE Capital Management|,||,|Y0000|,||,|Chicago, IL|,|Legal Services|,| |
+|I070002617|,|E|,|N99999950|,|07|,|N|,|Yale New Haven Hospital Board of Directors|,|Yale New Haven Hospital Board of Dir|,|Yale New Haven Hospital|,|H2100|,|Name|,|New Haven, CT|,|Legal Services|,| |
+|D120100431|,|S|,|N00035267|,|12|,|N|,|Sidney Austin LLP (2011)|,|Sidley Austin LLP|,||,|Y0000|,||,||,|Speaker|,
+|D120100432|,|S|,|N00035267|,|12|,|N|,|Goucher College (2011)|,|Goucher College|,||,|Y0000|,||,||,|Speaker|,
+|D120100433|,|S|,|N00035267|,|12|,|N|,|Johns Hopkins University (2011)|,|Johns Hopkins University|,||,|Y0000|,||,||,|Speaker|,
+|D120100434|,|S|,|N00035267|,|12|,|N|,|Community Foundation Herkimer (2011)|,|Community Foundation Herkimer|,||,|Y0000|,||,||,|Speaker|,
+|D120100435|,|S|,|N00035267|,|12|,|N|,|CraigMichaels Inc. (2011)|,|CraigMichaels Inc|,||,|Y0000|,||,||,|Speaker|,
+|D120100436|,|S|,|N00035267|,|12|,|N|,|Promethean Inc. (2011)|,|Promethean Inc|,||,|Y0000|,||,||,|Speaker|,
+|D120100437|,|S|,|N00035267|,|12|,|N|,|NYU Stern School of Business (2012)|,|NYU Stern School of Business|,|New York University|,|Y0000|,||,||,|Speaker|,
+|D120100438|,|S|,|N00035267|,|12|,|N|,|Universal McCann (2012)|,|Universal McCann|,||,|Y0000|,||,||,|Speaker|,
+|D120100439|,|S|,|N00035267|,|12|,|N|,|University of Chicago (2012)|,|University of Chicago|,||,|Y0000|,||,||,|Speaker|,
+|D120100440|,|S|,|N00035267|,|12|,|N|,|Hofstra University (2012)|,|Hofstra University|,||,|Y0000|,||,||,|Speaker|,
