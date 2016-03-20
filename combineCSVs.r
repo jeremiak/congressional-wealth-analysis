@@ -8,6 +8,7 @@ library(scales)
 ###########################################
 
 ############# Read in the Data ############
+setwd("~/congressional-wealth-analysis/data")
 years <- list.files(pattern = ".csv")
 incomeRaw <- data.frame()
 
